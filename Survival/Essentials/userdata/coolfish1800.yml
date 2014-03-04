@@ -1,0 +1,43 @@
+socialspy: false
+timestamps:
+  login: 1393900798783
+  lastteleport: 1393902837680
+  logout: 1393904016567
+  kits:
+    starter: 1392676562670
+    firework: 1390418824963
+    color: 1392490704702
+    dtools: 1391571450655
+    sybermc: 1391977118531
+ipAddress: 184.3.132.171
+lastlocation:
+  world: world
+  x: -455.2417481592139
+  y: 66.0
+  z: -1470.7543167364274
+  yaw: -256.84628
+  pitch: 10.199957
+logoutlocation:
+  world: world
+  x: -455.2260829429096
+  y: 102.0
+  z: -1473.1742524119854
+  yaw: -223.5462
+  pitch: 9.599986
+afk: false
+homes:
+  home:
+    world: world
+    x: 796.0
+    y: 55.0
+    z: -2371.0
+    yaw: -101.14914
+    pitch: 32.699997
+money: '971589.010818068987724'
+godmode: false
+ban:
+  reason: |-
+    §4Banned:
+    §rdan ban admins
+  timeout: 0
+nickname: TheFish

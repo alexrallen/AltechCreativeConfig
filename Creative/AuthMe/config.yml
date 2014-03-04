@@ -1,0 +1,162 @@
+DataSource:
+  mySQLColumnName: username
+  mySQLTablename: authme
+  mySQLUsername: authme
+  backend: file
+  mySQLColumnLastLogin: lastlogin
+  mySQLDatabase: authme
+  mySQLPort: '3306'
+  mySQLColumnIp: ip
+  mySQLHost: 127.0.0.1
+  mySQLColumnPassword: password
+  mySQLPassword: '12345'
+  caching: true
+  mySQLlastlocX: x
+  mySQLlastlocY: y
+  mySQLlastlocZ: z
+  mySQLlastlocWorld: world
+  mySQLColumnEmail: email
+  mySQLColumnId: id
+GroupOptions:
+  UnregisteredPlayerGroup: ''
+  RegisteredPlayerGroup: ''
+  Permissions:
+    PermissionsOnJoin: []
+settings:
+  sessions:
+    enabled: false
+    timeout: 60
+    sessionExpireOnIpChange: true
+  restrictions:
+    allowChat: false
+    allowCommands:
+    - /login
+    - /register
+    - /l
+    - /reg
+    - /passpartu
+    - /email
+    - /captcha
+    maxRegPerIp: 500
+    maxNicknameLength: 30
+    ForceSingleSession: true
+    ForceSpawnLocOnJoinEnabled: true
+    SaveQuitLocation: false
+    AllowRestrictedUser: false
+    AllowedRestrictedUser:
+    - playername;127.0.0.1
+    kickNonRegistered: false
+    kickOnWrongPassword: false
+    teleportUnAuthedToSpawn: false
+    minNicknameLength: 3
+    allowMovement: false
+    timeout: 30
+    allowedNicknameCharacters: '[a-zA-Z0-9_?]*'
+    allowedMovementRadius: 100
+    enablePasswordVerifier: false
+    ProtectInventoryBeforeLogIn: true
+    displayOtherAccounts: true
+    ForceSpawnOnTheseWorlds:
+    - PlotMeLarge
+    - PlotMe
+    - FlatLand
+    - world
+    - world_nether
+    - world_the_end
+    - Spawn
+    banUnsafedIP: false
+  GameMode:
+    ForceSurvivalMode: false
+    ResetInventoryIfCreative: false
+    ForceOnlyAfterLogin: false
+  security:
+    minPasswordLength: 4
+    unLoggedinGroup: unLoggedinGroup
+    passwordHash: SHA256
+    doubleMD5SaltLength: 8
+    supportOldPasswordHash: false
+  registration:
+    enabled: true
+    messageInterval: 2
+    force: true
+    enableEmailRegistrationSystem: false
+    doubleEmailCheck: false
+  unrestrictions:
+    UnrestrictedName: []
+  messagesLanguage: en
+  forceCommands: []
+ExternalBoardOptions:
+  mySQLColumnSalt: ''
+  mySQLColumnGroup: ''
+  nonActivedUserGroup: -1
+  mySQLOtherUsernameColumns: []
+  bCryptLog2Round: 10
+  phpbbTablePrefix: phpbb_
+  phpbbActivatedGroupId: 2
+  wordpressTablePrefix: wp_
+permission:
+  EnablePermissionCheck: false
+BackupSystem:
+  ActivateBackup: false
+  OnServerStart: false
+  OnServerStop: true
+  MysqlWindowsPath: C:\\Program Files\\MySQL\\MySQL Server 5.1\\
+Passpartu:
+  enablePasspartu: false
+Security:
+  SQLProblem:
+    stopServer: true
+  ReloadCommand:
+    useReloadCommandSupport: true
+  console:
+    noConsoleSpam: false
+    removePassword: true
+    logConsole: false
+  captcha:
+    useCaptcha: false
+    maxLoginTry: 5
+    captchaLength: 5
+Converter:
+  Rakamak:
+    fileName: users.rak
+    useIP: false
+    ipFileName: UsersIp.rak
+    newPasswordHash: SHA256
+Email:
+  mailSMTP: smtp.gmail.com
+  mailPort: 465
+  RecoveryPasswordLength: 4
+  mailSubject: Your Altech Password
+  maxRegPerEmail: 1
+  mailAccount: ''
+  mailPassword: ''
+  mailSenderName: ''
+  mailText: 'Hello <playername>, <br /><br /> Welcome to Altech this is your temp
+    password the server <br /><br /> <servername> : <br /><br /> <generatedpass><br
+    /><br />Do not forget to change password after login! <br /> Execute /changepassword
+    <generatedpass> newPassword <br /> Thanks for choosing altech'
+Hooks:
+  multiverse: true
+  chestshop: true
+  bungeecord: true
+  notifications: true
+  disableSocialSpy: true
+  useEssentialsMotd: false
+Performances:
+  useMultiThreading: true
+Purge:
+  useAutoPurge: false
+  daysBeforeRemovePlayer: 60
+  removePlayerDat: false
+  removeEssentialsFile: false
+  defaultWorld: world
+  removeLimitedCreativesInventories: false
+  removeAntiXRayFile: false
+Protection:
+  enableProtection: false
+  countries:
+  - US
+  - GB
+  enableAntiBot: false
+  antiBotSensibility: 5
+  antiBotDuration: 10

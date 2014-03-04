@@ -1,0 +1,29 @@
+socialspy: false
+timestamps:
+  login: 1393891955969
+  logout: 1393891973269
+  lastteleport: 1393603568190
+  jail: 0
+ipAddress: 67.237.89.65
+afk: false
+lastlocation:
+  world: PlotMeLarge
+  x: 48.3261971606065
+  y: 75.11555529752636
+  z: 10.699999988079071
+  yaw: -7.199984
+  pitch: 2.3999832
+logoutlocation:
+  world: Spawn
+  x: 0.4369668257534758
+  y: 65.0
+  z: 0.4076229143252059
+  yaw: 1.0499268
+  pitch: -4.199996
+jailed: false
+nickname: §lRobodude
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

@@ -1,0 +1,20 @@
+socialspy: false
+timestamps:
+  login: 1393909022046
+  logout: 1393909194501
+  lastteleport: 1393784944783
+ipAddress: 62.228.105.14
+lastlocation:
+  world: FlatLand
+  x: 52.457805478711904
+  y: 13.239356096184771
+  z: -2172.053236743079
+  yaw: -346.4992
+  pitch: 15.600049
+logoutlocation:
+  world: Spawn
+  x: 0.3963300459835972
+  y: 66.0
+  z: 5.86058489134683
+  yaw: -2.0995266
+  pitch: 1.7999649

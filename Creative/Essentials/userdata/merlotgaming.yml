@@ -1,0 +1,24 @@
+socialspy: false
+timestamps:
+  login: 1391314377144
+  logout: 1391314451782
+ipAddress: 70.188.166.242
+lastlocation:
+  world: world
+  x: 195.0
+  y: 114.0
+  z: 240.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 190.51375762491577
+  y: 114.0
+  z: 249.23224246234383
+  yaw: 146.09978
+  pitch: 26.700043
+ban:
+  reason: |-
+    §4Banned:
+    §rFUCK NO!
+  timeout: 0

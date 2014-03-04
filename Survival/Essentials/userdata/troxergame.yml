@@ -1,0 +1,32 @@
+socialspy: false
+timestamps:
+  login: 1392341189142
+  lastteleport: 1392341196406
+  logout: 1392341295792
+  kits:
+    starter: 1391989725124
+ipAddress: 50.155.57.155
+lastlocation:
+  world: world
+  x: -455.4756909926706
+  y: 66.0
+  z: -1472.6226173230461
+  yaw: 359.3538
+  pitch: 0.74997437
+money: '161.3708606222705736'
+homes:
+  home:
+    world: wild
+    x: -2445.184536623572
+    y: 66.0
+    z: 532.0160553597082
+    yaw: 14.112029
+    pitch: 43.20664
+logoutlocation:
+  world: wild
+  x: -2313.4876824603803
+  y: 72.0
+  z: 526.3000000119209
+  yaw: 151.20007
+  pitch: 10.880686
+nickname: Connor

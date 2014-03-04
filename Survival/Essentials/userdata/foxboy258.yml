@@ -1,0 +1,29 @@
+socialspy: false
+timestamps:
+  login: 1390768777258
+  logout: 1390768917759
+  lastteleport: 1390302742843
+ipAddress: 209.99.201.27
+lastlocation:
+  world: TARDIS_WORLD_foxboy258
+  x: 7.8574405967183605
+  y: 69.0
+  z: 5.0356633883669835
+  yaw: -306.4314
+  pitch: 22.471334
+logoutlocation:
+  world: world
+  x: -510.74680112545354
+  y: 63.0
+  z: -1426.336916388388
+  yaw: 156.41846
+  pitch: 12.205734
+money: '117.5'
+homes:
+  home:
+    world: TARDIS_WORLD_foxboy258
+    x: 12.41757296452455
+    y: 69.0
+    z: 10.558746914463295
+    yaw: -299.07233
+    pitch: 13.427384

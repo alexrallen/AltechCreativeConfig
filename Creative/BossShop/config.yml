@@ -1,0 +1,11 @@
+signs:
+  enabled: true
+MainShop: Menu
+HideItemsPlayersDoNotHavePermissionsFor: false
+EnableTransactionLog: false
+ServerPingingDelay: 20
+PointsPlugin: 'Random Text. Here you can enter whatever you want. BossShop will always
+  detect the Points Plugin you are using and it will hook into it (If you are using
+  one). Except you use multiple Points Plugins. In that case, fill one of this names
+  in here: ''PlayerPoints''/''PP'', ''CommandPoints''/''CP'', ''Enjin Minecraft Plugin''/''Enjin''/''EMP''.
+  Thank you!'

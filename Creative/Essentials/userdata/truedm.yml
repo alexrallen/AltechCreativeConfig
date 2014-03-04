@@ -1,0 +1,20 @@
+socialspy: false
+timestamps:
+  login: 1391392153004
+  logout: 1391392191084
+  lastteleport: 1391387628152
+ipAddress: 172.12.145.231
+lastlocation:
+  world: world
+  x: 248.7960821885128
+  y: 94.1222798925173
+  z: 297.73559241338535
+  yaw: -260.85144
+  pitch: 4.049987
+logoutlocation:
+  world: PlotMe
+  x: 1.586703557902229
+  y: 65.0
+  z: 2.3355710929649574
+  yaw: -209.54979
+  pitch: -7.3499923

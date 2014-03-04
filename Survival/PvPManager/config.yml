@@ -1,0 +1,77 @@
+# PvPManager Configuration File
+# -> In Combat: Tag players on PvP and what should happen when they are in combat
+# -> Punishments: Set if you want to punish or not a player that logs out while in combat.
+# -> Toggle Signs: You can do the same as the command "/pvp" does but by clicking signs. 
+# Just write [pvpmanager] on the first line of a sign, make sure you have the permissions to create one.
+# -> Newbie Protection: New players on your server will be protected from PvP for the time you define.
+# -> PvPTimer: Toggle PvP automatically on the times specified for each world.
+# -> World Exclusions: Write the name of worlds where you don't want to use PvPManager. 
+# Just delete the examples and write the name of your worlds to disable.
+# For a more detailed explanation of each setting go to: 
+# http://dev.bukkit.org/bukkit-plugins/pvpmanager/pages/configuration/
+# Full list of Sounds you can use on PvP Timer feature: 
+# http://dev.bukkit.org/bukkit-plugins/pvpmanager/pages/list-of-sounds/
+
+Config Version: 8
+PvP Blood: true
+In Combat:
+  Enabled: true
+  Time(seconds): 15
+  Stop Commands: true
+  Disable Fly: true
+  Disable GameMode: true
+  Only Tag Attacker: false
+  Punishments:
+    Enabled: true
+    Broadcast PvPLog: true
+    Kill on Logout: true
+    Drops:
+      Inventory: true
+      Armor: true
+      Experience: true
+    Fine:
+      Enabled: false
+      Amount: 0
+Toggle Signs:
+  Enabled: true
+  Disable Toggle Command: false
+Newbie Protection:
+  Enabled: false
+  Time(minutes): 5
+PvP Timer:
+  Enabled: false
+  Announce On World Change: true
+  Sound:
+    Enabled: true
+    PvP Off Sound: SUCCESSFUL_HIT
+    PvP On Sound: GHAST_FIREBALL
+  world:
+    Start PvP: 13000
+    Start Difficulty: NORMAL
+    End PvP: 0
+    End Difficulty: EASY
+    On World Change:
+      'On': '&4PvP is currently enabled in world'
+      'Off': '&2PvP is currently disabled in world'
+  world_nether:
+    Start PvP: 13000
+    Start Difficulty: NORMAL
+    End PvP: 0
+    End Difficulty: EASY
+    On World Change:
+      'On': '&4PvP is currently enabled in world_nether'
+      'Off': '&2PvP is currently disabled in world_nether'
+  world_the_end:
+    Start PvP: 13000
+    Start Difficulty: NORMAL
+    End PvP: 0
+    End Difficulty: EASY
+    On World Change:
+      'On': '&4PvP is currently enabled in world_the_end'
+      'Off': '&2PvP is currently disabled in world_the_end'
+Update Check:
+  Enabled: false
+  Auto Update: true
+World Exclusions:
+- Example
+- Example2

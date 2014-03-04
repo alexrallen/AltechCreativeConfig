@@ -1,0 +1,24 @@
+socialspy: false
+timestamps:
+  login: 1389703155532
+  kits:
+    starter: 1389687774693
+    color: 1389687747858
+    firework: 1389687765823
+    dtools: 1389703194323
+  logout: 1389703238906
+ipAddress: 202.166.3.146
+lastlocation:
+  world: world
+  x: -608.0
+  y: 64.0
+  z: 164.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -540.6999999880791
+  y: 65.4807108763317
+  z: 156.32448419355006
+  yaw: -270.18842
+  pitch: 9.599975

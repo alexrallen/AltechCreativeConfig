@@ -1,0 +1,25 @@
+socialspy: false
+timestamps:
+  login: 1393894555183
+  logout: 1393896533772
+  lastteleport: 1393893492870
+  jail: 0
+ipAddress: 76.2.47.23
+logoutlocation:
+  world: PlotMeLarge
+  x: 64.32628583895087
+  y: 65.0
+  z: -91.72647547039529
+  yaw: -281.55273
+  pitch: 18.74995
+lastlocation:
+  world: PlotMeLarge
+  x: 77.94084605396925
+  y: 69.40386382022513
+  z: -49.26054661503846
+  yaw: 92.25006
+  pitch: 10.649968
+jailed: false
+afk: false
+ban:
+  timeout: 0

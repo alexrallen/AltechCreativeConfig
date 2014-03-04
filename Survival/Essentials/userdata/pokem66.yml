@@ -1,0 +1,26 @@
+socialspy: false
+timestamps:
+  login: 1389767743557
+  lastteleport: 1389767857566
+  logout: 1389767928738
+ipAddress: 112.207.230.8
+lastlocation:
+  world: wild
+  x: 15.408615859615558
+  y: 62.0
+  z: -2247.9969572388864
+  yaw: 41.33039
+  pitch: 7.800067
+ban:
+  reason: |-
+    §4Banned:
+    §rThe Ban Hammer has spoken!
+  timeout: 0
+logoutlocation:
+  world: wild
+  x: -17.457710524988162
+  y: 68.0
+  z: -2262.4973691504483
+  yaw: 271.25662
+  pitch: 2.6141753
+money: '0.0'

@@ -1,0 +1,230 @@
+groups:
+  admin:
+    default: op
+    permissions:
+    - permissions.*
+    prefix: '&4[Admin]'
+  default:
+    default: true
+    permissions:
+    - ecocreature.gain.*
+    - ecocreature.reward.*
+    - essentials.msg
+    - autorank.leaderboard
+    - autorank.check
+    - essentials.suicide
+    - -disguisecraft.mob*
+    - -disguisecraft.player.*
+    - -disguisecraft.object.*
+    - -echopet.pet.type.enderdragon
+    - -echopet.pet.type.wither
+    - -echopet.pet.type.ghast
+    - -echopet.pet.type.bat
+    - -echopet.pet.type.blaze
+    - -echopet.pet.type.squid
+    - essentials.sethome.multiple
+    - essentials.sethome.bed
+    - essentials.sethome
+    - essentials.delhome
+    - essentials.home.bed
+    - essentials.home
+    - home
+    - essentials.kits.*
+    - essentials.kit
+    - essentials.kits
+    - essentials.kit.*
+    - essentials.tpaccept
+    - tardis.prune.bypass
+    - tardis.gravity
+    - tardis.book
+    - tardis.backdoor
+    - tardis.farm
+    - tardis.autonomous
+    - tardis.nether
+    - tardis.travel.wild
+    - tardis.timetravel.biome
+    - tardis.timetravel.location
+    - tardis.timetravel.player
+    - tardis.room
+    - tardis.create_world
+    - tardis.plank
+    - tardis.tom
+    - tardis.ars
+    - tardis.steampunk
+    - tardis.redstone
+    - tardis.eleventh
+    - tardis.deluxe
+    - tardis.bigger
+    - tardis.use
+    - essentials.me
+    - essentials.afk
+    - essentials.tpa
+    - essentials.help
+    - essentials.list
+    - essentials.teleport.timer.bypass
+    - essentials.back
+    - essentials.motd
+    - essentials.pay
+    - essentials.baltop
+    - essentials.balance.top
+    - essentials.balance
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.spawn
+    - modifyworld.*
+    prefix: '&7[Guest]'
+  owner:
+    permissions:
+    - RobodudeMC
+    - '*'
+    - permissions.*
+    prefix: '&9[Owner]'
+  fulladmin:
+    permissions:
+    - permissions.*
+    prefix: '&4[Head-Admin]'
+  player:
+    permissions:
+    - plotme.limit.4
+    - essentials.nick
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.nick.magic
+    inheritance:
+    - default
+    prefix: '&2[Member]'
+  vip:
+    permissions:
+    - plotme.limit.10
+    - essentials.hat
+    inheritance:
+    - player
+    prefix: '&b[Donator]'
+    worlds:
+      world:
+        permissions:
+        - essentials.fly
+  builder:
+    inheritance:
+    - player
+    prefix: '&6[Builder]'
+    permissions:
+    - essentials.gamemode.*
+  member: {}
+users:
+  robodude:
+    group:
+    - owner
+    - player
+  sybermc:
+    group:
+    - admin
+  Coolfish1800:
+    group:
+    - fulladmin
+  black_fanta14:
+    group:
+    - vip
+  foxboy258:
+    group:
+    - player
+  ninjiegore:
+    group:
+    - vip
+    - player
+  Sonixriders:
+    group:
+    - player
+  GiantsFan10:
+    group:
+    - player
+  GeitenkaasSwekk:
+    group:
+    - builder
+    - player
+  Dantay:
+    group:
+    - player
+  MineCraftGirl515:
+    group:
+    - player
+  alison848849547:
+    group:
+    - vip
+    - player
+  uenvy:
+    group:
+    - player
+  JacobtheAssassin:
+    group:
+    - player
+  dav180:
+    group:
+    - player
+  Tomb_lost:
+    group:
+    - player
+  mojo924:
+    group:
+    - player
+  Troxergame:
+    group:
+    - player
+  TheAssassinGod:
+    group:
+    - player
+  Nhwest:
+    group:
+    - player
+  MillerBarton:
+    group:
+    - player
+  Ryfro:
+    group:
+    - player
+  Missionary:
+    group:
+    - player
+  BVBArmy21644:
+    group:
+    - player
+  MattAssP:
+    group:
+    - player
+  witchking979:
+    group:
+    - player
+  Samuel1234:
+    group:
+    - player
+  ace3000:
+    group:
+    - player
+  JesterInHD:
+    group:
+    - player
+  johnis:
+    group:
+    - player
+  LoneWolf:
+    group:
+    - player
+  RobodudeMC:
+    group:
+    - owner
+worlds:
+  TARDIS_WORLD_robodude:
+    inheritance:
+    - world3
+  TARDIS_WORLD_Coolfish1800:
+    inheritance:
+    - world3
+  TARDIS_WORLD_Dantay:
+    inheritance:
+    - world
+  TARDIS_WORLD_SyberMC:
+    inheritance:
+    - world3
+  TARDIS_WORLD_foxboy258:
+    inheritance:
+    - world3

@@ -1,0 +1,7 @@
+regions:
+-   region: pvp
+    flags:
+        effects: NIGHT_VISION|254;
+-   region: spawn
+    flags:
+        effects: NIGHT_VISION|254;

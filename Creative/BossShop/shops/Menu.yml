@@ -1,0 +1,82 @@
+ShopName: Menu
+signs:
+  text: '[BungeeCordServers]'
+  NeedPermissionToCreateSign: true
+shop:
+  Natural:
+    RewardType: playercommand
+    PriceType: free
+    Reward: 
+    - warp spawn2
+    MenuItem:
+    - type:GRASS
+    - amount:1
+    - name:&aNatural World
+    - lore:&7Click to teleport!
+    - durability:3
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Plot:
+    RewardType: playercommand
+    PriceType: free
+    Reward: 
+    - warp plotme
+    MenuItem:
+    - type:STONE
+    - amount:1
+    - name:&aPlot World
+    - lore:&7Click to teleport!
+    - durability:3
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Flat:
+    RewardType: playercommand
+    PriceType: free
+    Reward: 
+    - warp flat
+    MenuItem:
+    - type:COAL_BLOCK
+    - amount:1
+    - name:&aFlat Land
+    - lore:&7Click to teleport!
+    - durability:3
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Altech:
+    RewardType: bungeecordserver
+    PriceType: free
+    Reward: create
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aAltech Creative
+    - lore:&7Click to connect!
+    - durability:3
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Survival:
+    RewardType: bungeecordserver
+    PriceType: free
+    Reward: survive
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aAltech Survival!
+    - lore:&7Click to connect!
+    - durability:11
+    InventoryLocation: 8
+    ExtraPermission: ''
+  PixelCloud:
+    RewardType: bungeecordserver
+    PriceType: free
+    Reward: pixelcloud
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aPixelCloud
+    - lore:&7Ask tgb20 for access
+    - durability:14
+    InventoryLocation: 9
+    ExtraPermission: ''
+
+

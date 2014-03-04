@@ -1,0 +1,4 @@
+powertools:
+  carpet:
+    left-click: /regen
+    right-click: /chunk

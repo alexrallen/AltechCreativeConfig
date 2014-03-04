@@ -1,0 +1,52 @@
+ShopName: BuyShop
+signs:
+  text: '[ExtraShop]'
+  NeedPermissionToCreateSign: false
+Diamond:
+  InventoryLocation: 2
+  Price: 200
+  ExtraPermission: ''
+  RewardType: item
+  MenuItem:
+  - type:264
+  - amount:1
+  - name:&95 Diamond
+  - 'lore:&cPrice: 200 Money'
+  - amount:5
+  Message: '&eYou bought %reward%! Money left: &c%left%'
+  Reward:
+  - - type:264
+    - amount:1
+  PriceType: money
+text: BuyShop
+Cobble Stone:
+  InventoryLocation: 1
+  Price: 40
+  ExtraPermission: ''
+  RewardType: item
+  MenuItem:
+  - type:4
+  - amount:32
+  - name:&95 Cobble Stone
+  - 'lore:&cPrice: 40 Money'
+  - amount:5
+  Message: '&eYou bought %reward%! Money left: &c%left%'
+  Reward:
+  - - type:4
+    - amount:32
+  PriceType: money
+NeedPermissionToCreateSign: true
+shop:
+  Example:
+    RewardType: command
+    PriceType: money
+    Price: 5000
+    Reward:
+    - tell %name% Example
+    MenuItem:
+    - type:STONE
+    - amount:1
+    - name:&8Example
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''

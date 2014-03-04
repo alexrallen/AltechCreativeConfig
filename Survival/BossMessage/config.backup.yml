@@ -1,0 +1,51 @@
+BossMessage:
+  Enabled: true
+  Random: false
+  Interval: 250
+  Show: 100
+  ColorCodes: '''0123456789abcdef'''
+  NoPermission: '&cNo Permission!'
+  Whitelist: false
+  Messages:
+  - - '&eHello welcome to Altech Survival if you have any issues please pm &a @robodude'
+    - '100'
+  - - '&eFeel free to come back to our world edit enabled creative server anytime /server create'
+    - '100'
+  - - '&eThanks for visiting, other announcements and events will will broadcasted here'
+    - '100'
+  - - '&eUse the /sethome command to set a home and the /home command to teleport'
+    - '100'
+  - - '&eUse the /menu command to see the shop and other options'
+    - '100'
+  - - '&eUse the /f ? command to get help with creating and claiming land for factions'
+    - '100'
+  - - '&eVisit www.altech.tk for the lastest news'
+    - '100'
+  - - '&eDo not ask for op, or creative, or cheats, this is a legit survival server'
+    - '100'
+  - - '&eUse /warp help to learn basic server commands'
+    - '100'
+  - - '&eUse /f autoclaim to automatically claim land you walk on use it again to stop claiming'
+    - '100'
+  - - '&eDo /tpa to send a teleport request to a player'
+    - '100'
+  - - '&eGo to one of our wilderness warps, find a place to settle down, make a faction, claim some land and survive as long as you can!'
+    - '100'
+  - - '&eNight is extremely dangerous death for you, %player% is certain...'
+    - '100'
+  - - '&eUse the /menu command to access the shop, help, warps, skill stats and our other servers'
+    - '100'
+  - - '&eUse the /server command to see our available servers'
+    - '100'
+  - - '&eHey %player% donate at altechmc.buycraft.net for money!'
+    - '100'
+  - - '&eQuestions? Visit the forums www.altech.tk/forums'
+    - '100'
+  IgnorePlayers:
+  - testPlayer
+  - examplePlayer
+  - your name
+  WhitelistedWorlds:
+  - world
+  - world_nether
+  - ExampleWorld

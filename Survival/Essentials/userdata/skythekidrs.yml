@@ -1,0 +1,17 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: -608.0
+  y: 64.0
+  z: 164.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -469.35695204197964
+  y: 65.0
+  z: -1484.4598183727514
+  yaw: 244.28229
+  pitch: 9.545937
+timestamps:
+  logout: 1391565512593

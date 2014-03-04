@@ -1,0 +1,33 @@
+BossMessage:
+  Enabled: true
+  Random: false
+  Interval: 250
+  Show: 150
+  ColorCodes: '''0123456789abcdef'''
+  NoPermission: '&cNo Permission!'
+  Whitelist: false
+  Messages:
+  - - '&eHello welcome to Altech if you have any issues please pm &a @robodude'
+    - '100'
+  - - '&eTry out our survival server &a /server survive'
+    - '100'
+  - - '&eThanks for visiting, %player% other announcements and events will will broadcasted here'
+    - '100'
+  - - '&eNo griefing, there is no reason to grief, we will ban all griefers on sight with no chance of appeal'
+    - '100'
+  - - '&eLike factions, pvp and pve? Join our survival server now!'
+    - '100'
+  - - '&eCheck out our live 3D minimap at http://map.altech.tk'
+    - '100'
+  - - '&eCome to our redesigned website! www.altech.tk'
+    - '100'
+  - - '&eQuestions? Visit the forums www.altech.tk/forums'
+    - '100'
+  IgnorePlayers:
+  - testPlayer
+  - examplePlayer
+  - your name
+  WhitelistedWorlds:
+  - world
+  - world_nether
+  - ExampleWorld

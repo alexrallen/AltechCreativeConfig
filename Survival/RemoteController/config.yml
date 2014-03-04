@@ -1,0 +1,10 @@
+Language: en
+Port: 25571
+MaxLog: 100
+MaxChat: 100
+EditableExtension:
+- yml
+- txt
+EnableDynmap: true
+DynmapAddress: map.altechmc.com
+ConsoleOnly: false

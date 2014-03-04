@@ -1,0 +1,166 @@
+groups:
+  admin:
+    default: op
+    permissions:
+    - '*'
+    - permissions.*
+    prefix: '&4[Admin]'
+  default:
+    default: true
+    permissions:
+    - multiverse.access.world
+    - multiverse.access.PlotMe
+    - multiverse.access.FlatLand
+    - multiverse.access.Spawn
+    - multiverse.portals.access.portal_flat
+    - multiverse.portals.access.portal_plot
+    - multiverse.portals.access.portal_nat
+    - plotme.reset
+    - multiverse.core.spawn.self
+    - multiverse.teleport.*
+    - essentials.msg
+    - autorank.leaderboard
+    - autorank.check
+    - -naughtyblocks.tnt
+    - naughtyblocks.bedrock
+    - naughtyblocks.sponge
+    - naughtyblocks.fire
+    - -naughtyblocks.lavabucket
+    - naughtyblocks.waterbucket
+    - -naughtyblocks.lavablock
+    - naughtyblocks.waterblock
+    - naughtyblocks.enderchest
+    - essentials.tpa
+    - essentials.back
+    - essentials.gamemode
+    - essentials.tppos
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple
+    - essentials.sethome.multiple.unlimited
+    - essentials.jump
+    - essentials.warps.*
+    - essentials.warp.list
+    - essentials.speed.*
+    - essentials.fly
+    - essentials.speed
+    - essentials.spawn
+    - essentials.warp
+    - plotme.use
+    prefix: '&7[Guest]'
+  owner:
+    permissions:
+    - robodude
+    - '*'
+    - permissions.*
+    prefix: '&9[Owner]'
+  fulladmin:
+    permissions:
+    - permissions.*
+    prefix: '&4[Head-Admin]'
+  vip:
+    permissions:
+    - multiverse.access.PlotMeLarge
+    - multiverse.portals.access.donator_port
+    - plotme.limit.10
+    - essentials.hat
+    - disguisecraft.*
+    inheritance:
+    - player
+    prefix: '&b[Donator]'
+    worlds:
+      PlotMe:
+        permissions:
+        - worldedit.*
+      PlotMeLarge:
+        permissions:
+        - worldedit.*
+  player:
+    permissions:
+    - plotme.limit.4
+    - craftbook.*
+    - essentials.setwarp
+    - essentials.weather.*
+    - essentials.weather
+    - essentials.time.set
+    - essentials.ptime
+    - essentials.warps.*
+    - essentials.enchant
+    - essentials.time
+    - essentials.give
+    - essentials.nick
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.nick.magic
+    - essentials.tp
+    inheritance:
+    - default
+    prefix: '&2[Member]'
+  partner:
+    permissions:
+    - essentials.gamemode
+    prefix: '&b[Partner]'
+  member:
+    permissions:
+    - craftbook.*
+users:
+  robodude:
+    group:
+    - owner
+    - player
+    - member
+    permissions:
+    - '''*'''
+  sybermc:
+    group:
+    - admin
+  Coolfish1800:
+    group:
+    - fulladmin
+    - player
+  black_fanta14:
+    group:
+    - vip
+  tgb20:
+    group:
+    - partner
+  Sonixriders:
+    group:
+    - player
+  ninjiegore:
+    group:
+    - vip
+  Dantay:
+    group:
+    - player
+  firefoxjew:
+    group:
+    - player
+  JacobtheAssassin:
+    group:
+    - player
+  alison848849547:
+    group:
+    - vip
+    - player
+  edgar:
+    group:
+    - player
+  dav180:
+    group:
+    - player
+  Nhwest:
+    group:
+    - player
+  MillerBarton:
+    group:
+    - player
+  RobodudeMC:
+    group:
+    - owner
+  witchking979:
+    group:
+    - player
+  slegher123:
+    group:
+    - player

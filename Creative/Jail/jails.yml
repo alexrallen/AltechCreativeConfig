@@ -1,0 +1,6 @@
+supermax:
+  Protections:
+    EnableBlockDestroyProtection: true
+jail:
+  Protections:
+    EnableBlockDestroyProtection: true

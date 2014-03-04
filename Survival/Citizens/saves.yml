@@ -1,0 +1,725 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 140
+npc:
+  '10':
+    name: paulsoaresjr
+    traits:
+      spawned: true
+      owner: robodude
+      location:
+        world: world
+        x: '-459.5'
+        y: '102.0'
+        z: '-1474.5'
+        yaw: '-71.33123016357422'
+        pitch: '0.0'
+      commander:
+        data: echest ,false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    name: Honeydew
+    traits:
+      spawned: true
+      owner: robodude
+      location:
+        world: world
+        x: '-451.5'
+        y: '102.0'
+        z: '-1472.5'
+        yaw: '100.2569580078125'
+        pitch: '0.0'
+      commander:
+        data: menu ,false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: commander,lookclose,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    name: Notch
+    traits:
+      spawned: true
+      owner: robodude
+      location:
+        world: world
+        x: '-451.6999999880791'
+        y: '102.0'
+        z: '-1474.4699350744668'
+        yaw: '69.82380676269531'
+        pitch: '0.0'
+      commander:
+        data: menu Warps ,false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: commander,lookclose,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      removefromplayerlist: false
+  '13':
+    name: SeaBoiii
+    traits:
+      owner: robodude
+      commander:
+        data: menu Skills ,false
+      spawned: true
+      location:
+        world: world
+        x: '-456.5'
+        y: '102.0'
+        z: '-1469.5'
+        yaw: '199.1221923828125'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    name: Coolfish1800
+    traits:
+      owner: robodude
+      commander:
+        data: suicide ,false
+      spawned: true
+      location:
+        world: world
+        x: '-543.2476533013024'
+        y: '47.0'
+        z: '163.94146342419444'
+        yaw: '127.58187866210938'
+        pitch: '-23.37771224975586'
+      controllable:
+        enabled: false
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '14':
+    name: SkythekidRS
+    traits:
+      owner: robodude
+      commander:
+        data: menu Resources ,false
+      spawned: true
+      location:
+        world: world
+        x: '-459.5'
+        y: '102.0'
+        z: '-1472.5'
+        yaw: '261.034912109375'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: commander,lookclose,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '38':
+    name: test
+    traits:
+      commander:
+        data: effect %name% 11 30 255 ,true
+      location:
+        world: world
+        x: '-453.30000001192093'
+        y: '66.0'
+        z: '-1471.3423473961334'
+        yaw: '73.15180969238281'
+        pitch: '0.0'
+      spawned: true
+      owner: robodude
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '48':
+    name: ShumanBob
+    traits:
+      commander:
+        data: pet select ,false
+      location:
+        world: world
+        x: '-454.5'
+        y: '102.0'
+        z: '-1477.5'
+        yaw: '9.528358459472656'
+        pitch: '0.0'
+      spawned: true
+      owner: robodude
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: commander,lookclose,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '53':
+    name: Xephos
+    traits:
+      commander:
+        data: back ,false
+      location:
+        world: world
+        x: '-602.3950717215447'
+        y: '56.0'
+        z: '167.44538113957043'
+        yaw: '116.78916931152344'
+        pitch: '0.0'
+      spawned: true
+      owner: robodude
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '78':
+    name: Timelord
+    traits:
+      commander:
+        data: menu Tardis ,false
+      spawned: true
+      location:
+        world: world
+        x: '-454.5'
+        y: '102.0'
+        z: '-1469.5'
+        yaw: '168.82159423828125'
+        pitch: '0.0'
+      owner: robodude
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '81':
+    name: Docm77
+    traits:
+      commander:
+        data: warp help ,false
+      spawned: true
+      location:
+        world: world
+        x: '-580.5'
+        y: '47.0'
+        z: '171.5'
+        yaw: '134.9012908935547'
+        pitch: '0.0'
+      owner: robodude
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: commander,lookclose,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '80':
+    name: generikb
+    traits:
+      commander:
+        data: warp menu ,false
+      spawned: true
+      location:
+        world: world
+        x: '-457.44657806986373'
+        y: '66.0'
+        z: '-1471.4942664716618'
+        yaw: '-71.44804382324219'
+        pitch: '0.0'
+      owner: robodude
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '92':
+    name: jeb_
+    traits:
+      location:
+        world: world
+        x: '-456.5'
+        y: '102.0'
+        z: '-1477.5'
+        yaw: '-16.409507751464844'
+        pitch: '0.0'
+      owner: robodude
+      commander:
+        data: menu bodyguards ,false
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,commander,spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '101':
+    name: firefoxjew~
+    traits:
+      equipment:
+        hand:
+          type: BOW
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: DIAMOND_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: DIAMOND_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: DIAMOND_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: DIAMOND_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: wild
+        x: '-50160.139015198976'
+        y: '73.0'
+        z: '-50205.48037927579'
+        yaw: '-628.7075805664062'
+        pitch: '0.0'
+      spawned: false
+      owner: CONSOLE
+      sentry:
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        Targetable: true
+        MountID: -1
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores:
+        - ENTITY:OWNER
+        Health: '40.0'
+        Range: 10
+        RespawnDelay: 5
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '1.0'
+        Armor: 1
+        Strength: 5
+        WarningRange: 0
+        AttackRate: '5.0'
+        NightVision: 16
+        FollowDistance: 5
+    traitnames: equipment,spawned,owner,sentry,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '110':
+    name: SyberMC~
+    traits:
+      equipment:
+        hand:
+          type: SKULL_ITEM
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: DIAMOND_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: DIAMOND_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: DIAMOND_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: DIAMOND_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner: CONSOLE
+      spawned: false
+      location:
+        world: wild
+        x: '-747.3000000119209'
+        y: '64.0'
+        z: '-1015.1374999880791'
+        yaw: '0.0'
+        pitch: '0.0'
+      sentry:
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        Targetable: true
+        MountID: -1
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores:
+        - ENTITY:OWNER
+        Health: '40.0'
+        Range: 10
+        RespawnDelay: 5
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '1.0'
+        Armor: 1
+        Strength: 5
+        WarningRange: 0
+        AttackRate: '5.0'
+        NightVision: 16
+        FollowDistance: 5
+    traitnames: equipment,spawned,owner,sentry,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '120':
+    name: KYRCREEPY~
+    traits:
+      sentry:
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        Targetable: true
+        MountID: -1
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores:
+        - ENTITY:OWNER
+        Spawn:
+          x: '-455.9701978225457'
+          y: '102.0'
+          z: '-1475.1532672438705'
+          world: world
+          yaw: '164.44537353515625'
+          pitch: '2.76141619682312'
+        Health: '40.0'
+        Range: 10
+        RespawnDelay: -1
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '1.0'
+        Armor: 1
+        Strength: 5
+        WarningRange: 0
+        AttackRate: '5.0'
+        NightVision: 16
+        FollowDistance: 5
+        GuardTarget: KYRCREEPY
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+      spawned: true
+      location:
+        world: wild
+        x: '139.8532490570359'
+        y: '55.0'
+        z: '641.1925691051864'
+        yaw: '284.8059387207031'
+        pitch: '0.0'
+      owner: CONSOLE
+    traitnames: spawned,owner,location,sentry,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: 100
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '123':
+    name: robodude~
+    traits:
+      sentry:
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        Targetable: true
+        MountID: -1
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores:
+        - ENTITY:OWNER
+        Health: '40.0'
+        Range: 10
+        RespawnDelay: 5
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '1.0'
+        Armor: 1
+        Strength: 5
+        WarningRange: 0
+        AttackRate: '5.0'
+        NightVision: 16
+        FollowDistance: 5
+      location:
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+      owner: server
+    traitnames: spawned,owner,location,sentry,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '122':
+    name: robodude~
+    traits:
+      sentry:
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        Targetable: true
+        MountID: -1
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores:
+        - ENTITY:OWNER
+        Health: '40.0'
+        Range: 10
+        RespawnDelay: 5
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '1.0'
+        Armor: 1
+        Strength: 5
+        WarningRange: 0
+        AttackRate: '5.0'
+        NightVision: 16
+        FollowDistance: 5
+      location:
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+      owner: server
+    traitnames: spawned,owner,sentry,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '121':
+    name: robodude~
+    traits:
+      sentry:
+        Greeting: '&a<NPC> says Welcome, <PLAYER>'
+        Warning: '&c<NPC> says Halt! Come no closer!'
+        toggled: true
+        Retaliate: true
+        Invincinble: false
+        DropInventory: false
+        KillDrops: true
+        Targetable: true
+        MountID: -1
+        CriticalHits: true
+        Targets:
+        - ENTITY:MONSTER
+        Ignores:
+        - ENTITY:OWNER
+        Health: '40.0'
+        Range: 10
+        RespawnDelay: 5
+        Speed: '1.0'
+        Weight: '1.0'
+        HealRate: '1.0'
+        Armor: 1
+        Strength: 5
+        WarningRange: 0
+        AttackRate: '5.0'
+        NightVision: 16
+        FollowDistance: 5
+      location:
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+      owner: server
+    traitnames: spawned,owner,sentry,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '140':
+    name: paulsoaresjr
+    traits:
+      location:
+        world: world
+        x: '-456.6232797182958'
+        y: '102.0'
+        z: '-1474.4899193777608'
+        yaw: '-270.4962158203125'
+        pitch: '15.44998836517334'
+      spawned: true
+      owner: Coolfish1800
+    traitnames: spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '138':
+    name: paul
+    traits:
+      location:
+        world: world
+        x: '-458.0422234287497'
+        y: '102.0'
+        z: '-1474.250629161308'
+        yaw: '-254.5963134765625'
+        pitch: '54.44999313354492'
+      spawned: true
+      owner: Coolfish1800
+    traitnames: spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '139':
+    name: paulsoar
+    traits:
+      location:
+        world: world
+        x: '-456.8430285147682'
+        y: '102.0'
+        z: '-1474.4372723881468'
+        yaw: '-274.2464599609375'
+        pitch: '24.149988174438477'
+      spawned: true
+      owner: Coolfish1800
+    traitnames: spawned,owner,location,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

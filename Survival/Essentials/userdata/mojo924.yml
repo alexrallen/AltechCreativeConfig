@@ -1,0 +1,27 @@
+socialspy: false
+timestamps:
+  login: 1391728100290
+  logout: 1391731058273
+  kits:
+    firework: 1391645883759
+    color: 1391645877629
+    starter: 1391645874573
+    dtools: 1391645869628
+  lastteleport: 1391730191607
+ipAddress: 184.153.148.87
+lastlocation:
+  world: wild
+  x: -2531.3995540609044
+  y: 15.0
+  z: 532.3000000119209
+  yaw: 185.78174
+  pitch: 19.35
+logoutlocation:
+  world: wild
+  x: -2616.114241389087
+  y: 75.0
+  z: 503.13749998807907
+  yaw: -85.500305
+  pitch: -79.3499
+money: '508.2787847382199255'
+nickname: Blade

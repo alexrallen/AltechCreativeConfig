@@ -1,0 +1,454 @@
+# CraftBook Configuration for Bukkit. Generated for version: 3.8-SNAPSHOT:3640-cac26c9,master
+# This configuration will automatically add new configuration options for you,
+# So there is no need to regenerate this configuration unless you need to.
+# More information about these features are available at...
+# http://wiki.sk89q.com/wiki/CraftBook/Usage
+
+
+
+# If this is set to false, all circuit mechanics will be disabled, and circuit configuration will not do anything.
+enable-circuits: true
+
+# If this is set to false, all mechanics will be disabled, and mechanism configuration will not do anything.
+enable-mechanisms: true
+
+# If this is set to false, all vehicles mechanics will be disabled, and vehicle configuration will not do anything.
+enable-vehicles: true
+
+# WARNING! Changing this can result in all ST mechanics acting very weirdly, only change this if you know what you are doing!
+st-think-ticks: 2
+
+# Enables the update notifier. This checks for updates on start, and notifies anyone with the permission when they join. They can then use /cb update to download the update.
+notify-updates: true
+
+# Causes many mechanics to require sufficient blocks to function, for example gates, bridges and doors.
+safe-destruction: true
+
+# If on, OP's will not default to have access to everything.
+no-op-permissions: false
+
+# Allows redstone not directly facing a mechanism to trigger said mechanism.
+indirect-redstone: false
+
+# Rounds all distance equations to the block grid.
+use-block-distance: false
+
+# Checks to see if WorldGuard allows building/using in the area when activating mechanics.
+check-worldguard-flags: true
+
+# Use advanced methods to detect if a player can build or not. Use this if you use region protections other than WorldGuard, or experience issues with WorldGuard protection. This can add extra entries to Block Logging plugins when a mechanic is broken/placed.
+advanced-block-checks: true
+
+# In conjunction with advanced-block-checks, this option adds a few extra checks if you are experiencing compatibility issues with certain plugins that stop breaks/places/interacts.
+pedantic-block-checks: false
+
+# The default language for CraftBook. Note: This language needs to be in the 'languages' field for this to work.
+language: en_US
+
+# A list of languages supported by craftbook, if a user requests a language not listed... They will see default.
+languages:
+- en_US
+
+# Enable a mode that will print extra debug information to the console.
+debug-mode: false
+
+# Enable certain debug types when debug mode is enabled.
+debug-flags: []
+
+# Enables random easter eggs. Can be from console messages on startup for a special occasion, to funny little effects with IC's and other mechanics (Always harmless, won't mess anything up)
+easter-eggs: true
+
+# Random numbers are much more random, with a small cost to CPU usage.
+realistic-randoms: true
+
+# Show messages when a player does not have permission to do something.
+show-permission-messages: true
+persistent-storage: true
+
+# PersistentStorage stores data that can be accessed across server restart. Method of PersistentStorage storage (Note: DUMMY is practically off, and may cause issues). Can currently be any of the following: YAML, DUMMY
+persistent-storage-type: YAML
+common:
+    variables:
+        enable: true
+        default-to-global: true
+        enable-in-commandblocks: false
+        enable-in-player-commands: false
+        enable-in-player-chat: false
+circuits:
+    ics:
+        enable: true
+        cache: true
+        max-radius: 10
+        allow-short-hand: true
+        keep-loaded: false
+        disallowed-ics: []
+        default-coordinate-system: RELATIVE
+        save-persistent-data: true
+        midi-use-percussion: false
+        break-on-error: false
+    wiring:
+        netherrack-enabled: false
+        pumpkins-enabled: false
+        glowstone-enabled: false
+        glowstone-off-block: GLASS
+    pipes:
+        enable: true
+        allow-diagonal: false
+        insulator-block: 35
+        stack-per-move: true
+        require-sign: false
+    jukebox:
+        enable: true
+mechanics:
+    ai:
+        enable: false
+        vision-enable:
+        - Zombie
+        - PigZombie
+        crit-bow-enable:
+        - Skeleton
+        attack-passive-enable:
+        - Zombie
+    ammeter:
+        enable: true
+        item: COAL
+    area:
+        enable: true
+        allow-redstone: true
+        use-schematics: true
+        shorten-long-names: true
+        max-size: 5000
+        max-per-user: 30
+    better-leads:
+        enable: false
+        stop-mob-target: false
+        owner-unleash-only: false
+        hitch-persists: false
+        mob-repel: false
+        allowed-mobs:
+        - ZOMBIE
+        - SPIDER
+    better-physics:
+        enable: true
+        falling-ladders: true
+    better-pistons:
+        enable: true
+        crushers: true
+        crushers-kill-mobs: false
+        crusher-blacklist:
+        - OBSIDIAN
+        - BEDROCK
+        super-sticky: true
+        super-push: true
+        movement-blacklist:
+        - OBSIDIAN
+        - BEDROCK
+        bounce: true
+        bounce-blacklist:
+        - OBSIDIAN
+        - BEDROCK
+        max-distance: 12
+    bookcase:
+        enable: true
+        read-when-sneaking: false
+        read-when-holding-block: false
+    bridge:
+        enable: true
+        allow-redstone: true
+        max-length: 30
+        max-width: 5
+        blocks:
+        - COBBLESTONE
+        - WOOD
+        - GLASS
+        - DOUBLE_STEP
+        - WOOD_DOUBLE_STEP
+    cauldron:
+        enable: true
+        spoons: true
+    chair:
+        enable: true
+        allow-holding-blocks: false
+        regen-health: true
+        blocks:
+        - WOOD_STAIRS
+        - COBBLESTONE_STAIRS
+        - BRICK_STAIRS
+        - SMOOTH_STAIRS
+        - NETHER_BRICK_STAIRS
+        - SANDSTONE_STAIRS
+        - SPRUCE_WOOD_STAIRS
+        - BIRCH_WOOD_STAIRS
+        - JUNGLE_WOOD_STAIRS
+        - QUARTZ_STAIRS
+        face-correct-direction: true
+        require-sign: false
+        max-distance: 4
+        max-click-radius: 5
+    chunk-anchor:
+        enable: true
+        enable-redstone: true
+        check-chunks: true
+    command-items:
+        enable: false
+    command-sign:
+        enable: true
+        allow-redstone: true
+    cooking-pot:
+        enable: true
+        require-fuel: true
+        cook-ores: false
+        sign-click-open: true
+        take-buckets: false
+        super-fast-cooking: false
+    custom-crafting:
+        enable: false
+    dispenser-recipes:
+        enable: true
+        cannon-enable: true
+        fan-enable: true
+        fire-arrows-enable: true
+        snow-shooter-enable: true
+        xp-shooter-enable: true
+    custom-drops:
+        enable: false
+        require-permissions: false
+    door:
+        enable: true
+        allow-redstone: true
+        max-length: 30
+        max-width: 5
+        blocks:
+        - COBBLESTONE
+        - WOOD
+        - GLASS
+        - DOUBLE_STEP
+        - WOOD_DOUBLE_STEP
+    elevator:
+        enable: true
+        enable-buttons: true
+        allow-looping: false
+        smooth-movement: false
+        smooth-movement-speed: 0.5
+    footprints:
+        enable: false
+        blocks:
+        - DIRT
+        - SAND
+        - SNOW
+        - SNOW_BLOCK
+        - ICE
+    gate:
+        enable: true
+        allow-redstone: true
+        limit-columns: true
+        max-columns: 14
+        blocks:
+        - FENCE
+        - IRON_FENCE
+        - THIN_GLASS
+        - NETHER_FENCE
+        enforce-type: true
+        max-column-height: 12
+        gate-search-radius: 3
+    head-drops:
+        enable: false
+        drop-mob-heads: true
+        drop-player-heads: true
+        require-player-killed: true
+        drop-head-when-mined: true
+        override-natural-head-drops: false
+        drop-rate: 0.05
+        looting-rate-modifier: 0.05
+        show-name-right-click: true
+        drop-rates: {}
+        custom-mob-skins: {}
+    hidden-switch:
+        enable: true
+        any-side: true
+    legacy-cauldron:
+        enable: true
+        block: 1
+    lightstone:
+        enable: true
+        item: GLOWSTONE_DUST
+    light-switch:
+        enable: true
+        max-range: 10
+        max-lights: 20
+    map-changer:
+        enable: true
+    paintings:
+        enable: true
+    payment:
+        enable: true
+    sign-copy:
+        enable: true
+        item: INK_SACK:0
+    snow:
+        piling: false
+        trample: false
+        place: false
+        slowdown: false
+        realistic: false
+        high-piling: false
+        jump-trample: false
+        replacable-blocks:
+        - DEAD_BUSH
+        - LONG_GRASS
+        - YELLOW_FLOWER
+        - RED_ROSE
+        - BROWN_MUSHROOM
+        - RED_MUSHROOM
+        - FIRE
+        falldown-animation-speed: 5
+        partial-trample-only: false
+        enable: false
+        max-pile-height: 3
+        freeze-water: false
+        melt-in-sunlight: false
+        partial-melt-only: false
+    teleporter:
+        enable: true
+        require-sign: false
+        max-range: 0
+    tree-lopper:
+        enable: false
+        block-list:
+        - LOG
+        tool-list:
+        - IRON_AXE
+        - WOOD_AXE
+        - STONE_AXE
+        - DIAMOND_AXE
+        - GOLD_AXE
+        max-size: 30
+        allow-diagonals: false
+        enforce-data: false
+        place-saplings: false
+        break-leaves: false
+    xp-storer:
+        enable: true
+        block: 52
+        require-sneaking-state: 'no'
+    marquee:
+        enable: true
+    sponge:
+        enable: false
+        radius: 5
+        circular-radius: true
+        require-redstone: false
+vehicles:
+    minecart:
+        decay-when-empty:
+            enable: false
+            time-in-ticks: 20
+        mechanisms:
+            station:
+                enable: true
+                block: OBSIDIAN:0
+            sorter:
+                enable: true
+                block: NETHERRACK:0
+            ejector:
+                enable: true
+                block: IRON_BLOCK:0
+            deposit:
+                enable: true
+                block: IRON_ORE:0
+            teleport:
+                enable: true
+                block: EMERALD_BLOCK:0
+            elevator:
+                enable: true
+                block: NETHER_BRICK:0
+            messager:
+                enable: true
+                block: ENDER_STONE:0
+            reverse:
+                enable: true
+                block: WOOL:0
+            max-speed:
+                enable: true
+                block: COAL_BLOCK:0
+            speed-modifier:
+                enable: true
+                max-boost-block: GOLD_BLOCK:0
+                25x-boost-block: GOLD_ORE:0
+                50x-slow-block: SOUL_SAND:0
+                20x-slow-block: GRAVEL:0
+            dispenser:
+                enable: true
+                block: EMERALD_ORE:0
+                spawn-infront: false
+                check-for-carts: true
+                propel-cart: false
+        fall-speed:
+            enable: false
+            vertical-fall-speed: 0.9
+            horizontal-fall-speed: 1.1
+        more-rails:
+            enable: false
+            pressure-plate-intersection: false
+            ladder-vertical-rail: false
+            ladder-vertical-rail-velocity: 0.5
+        remove-entities:
+            enable: false
+            remove-other-minecarts: false
+        vision-steering:
+            enable: false
+            minimum-sensitivity: 3
+        block-mob-entry:
+            enable: false
+        remove-on-exit:
+            enable: false
+            give-item: false
+        collision-entry:
+            enable: false
+        item-pickup:
+            enable: false
+        constant-speed:
+            enable: false
+            speed: 0.5
+        rail-placer:
+            enable: false
+        speed-modifiers:
+            enable: false
+            max-speed: 1.0
+            off-rail-speed: 0.0
+        empty-slowdown-stopper:
+            enable: false
+        no-collide:
+            enable: false
+            empty-carts: true
+            full-carts: false
+        place-anywhere:
+            enable: false
+    boat:
+        disable-crashing: false
+        break-return-boat: false
+        remove-entities:
+            enable: false
+            remove-other-boats: false
+        speed-modifiers:
+            enable: false
+            max-speed: 1.0
+            unnoccupied-deceleration: 1.0
+            occupied-deceleration: 1.0
+        land-boats:
+            enable: false
+        remove-on-exit:
+            enable: false
+            give-item: false
+        water-place-only:
+            enable: false
+        drops:
+            enable: false
+        uncrashable:
+            enable: false
+
+# If enabled, CraftBook will scan messages sent to players for localizable text, instead of just checking if the entire message is localizable.
+scan-text-for-localization: false
+
+# Make sure a player can only press signs so often.
+sign-click-timeout: 4

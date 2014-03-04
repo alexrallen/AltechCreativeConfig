@@ -1,0 +1,50 @@
+socialspy: false
+timestamps:
+  login: 1391788529181
+  logout: 1391788539797
+  lastteleport: 1391751256536
+  kits:
+    starter: 1390682747786
+    color: 1390636662169
+    dtools: 1390682760100
+    sybermc: 1390636614588
+ipAddress: 212.64.104.6
+lastlocation:
+  world: wild
+  x: -2573.576941653839
+  y: 169.0
+  z: 455.09849388620194
+  yaw: 135.39969
+  pitch: 12.903813
+logoutlocation:
+  world: world
+  x: -455.4688172938819
+  y: 68.74848791821934
+  z: -1464.247670434349
+  yaw: 358.75378
+  pitch: 0.29997435
+afk: false
+homes:
+  home:
+    world: world
+    x: -370.64431915503064
+    y: 65.0
+    z: -1487.8397179788908
+    yaw: 266.9535
+    pitch: 5.999962
+  gg:
+    world: world
+    x: -453.0019511248811
+    y: 102.0
+    z: -1483.0976486276177
+    yaw: 252.40674
+    pitch: 29.700006
+  base:
+    world: wild
+    x: -2747.300000011921
+    y: 65.0
+    z: 408.30000001192093
+    yaw: 57.29773
+    pitch: 3.6000092
+money: '15.9856384341561505'
+nickname: Nacho

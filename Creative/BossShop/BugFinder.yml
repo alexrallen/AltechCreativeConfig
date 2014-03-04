@@ -1,0 +1,516 @@
+2013 04-12 at 09:29:36 PM (Wed): 'PlayerPoints/CommandPoints was not found... You
+  need one of that plugins if you want to work with Points! Get PlayerPoints there:
+  http://dev.bukkit.org/server-mods/playerpoints/'
+2013 04-12 at 09:51:10 PM (Wed): 'PlayerPoints/CommandPoints was not found... You
+  need one of that plugins if you want to work with Points! Get PlayerPoints there:
+  http://dev.bukkit.org/server-mods/playerpoints/'
+2013 04-12 at 09:53:52 PM (Wed): 'PlayerPoints/CommandPoints was not found... You
+  need one of that plugins if you want to work with Points! Get PlayerPoints there:
+  http://dev.bukkit.org/server-mods/playerpoints/'
+2013 05-12 at 12:23:06 AM (Thu): "Invalid Configuration! File: /shops/Menu.yml Cause:\
+  \ while scanning a simple key\n in 'string', line 82, column 5:\n        Reward:tell\
+  \ %name% Visit www.alt ... \n        ^\ncould not found expected ':'\n in 'string',\
+  \ line 83, column 5:\n        - type:RECORD_CHIRP\n        ^\n"
+2013 05-12 at 12:24:07 AM (Thu): 'Mistake in Config: Black_ixx (playerhead) You can''t
+  use "PlayerHead" on items which are not skulls...'
+2013 05-12 at 12:28:03 AM (Thu): 'Mistake in Config: record_4 (type) is no valid Material!'
+2013 05-12 at 12:28:27 AM (Thu): 'Mistake in Config: record_4 (type) is no valid Material!'
+2013 07-12 at 01:40:47 PM (Sat): 'Mistake in Config: SAPLING:2 (type) is no valid
+  Material!'
+2013 07-12 at 01:46:23 PM (Sat): 'Mistake in Config: FERN (type) is no valid Material!'
+2013 07-12 at 01:48:54 PM (Sat): 'Mistake in Config: LONGGRASS (type) is no valid
+  Material!'
+2013 07-12 at 02:41:00 PM (Sat): 'Mistake in Config: FISH (type) is no valid Material!'
+2013 08-12 at 12:43:51 AM (Sun): -Custom
+2013 08-12 at 12:44:15 AM (Sun): -Custom
+2013 08-12 at 12:44:50 AM (Sun): -Custom
+2013 22-12 at 03:28:37 PM (Sun): |
+  Invalid Configuration! File: /shops/BuyShop.yml Cause: while scanning a simple key
+   in 'string', line 9, column 1:
+      Price:500
+      ^
+  could not found expected ':'
+   in 'string', line 10, column 1:
+      Reward:
+      ^
+2013 23-12 at 01:45:08 AM (Mon): |
+  Invalid Configuration! File: /shops/BuyShop.yml Cause: while scanning a simple key
+   in 'string', line 9, column 1:
+      Price:500
+      ^
+  could not found expected ':'
+   in 'string', line 10, column 1:
+      Reward:
+      ^
+2013 23-12 at 05:48:13 PM (Mon): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 23-12 at 06:10:28 PM (Mon): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 23-12 at 06:55:06 PM (Mon): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 24-12 at 10:19:40 AM (Tue): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 25-12 at 01:00:16 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 25-12 at 01:10:23 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 25-12 at 01:11:52 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning for the next token\nfound character \t '\\t(TAB)' that cannot\
+  \ start any token. (Do not use \\t(TAB) for indentation)\n in 'string', line 6,\
+  \ column 1:\n    \tStone:\n    ^\n"
+2013 25-12 at 01:14:35 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning a simple key
+   in 'string', line 14, column 5:
+          -type:1
+          ^
+  could not found expected ':'
+   in 'string', line 15, column 5:
+          -amount:32
+          ^
+2013 25-12 at 01:15:38 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning a simple key
+   in 'string', line 18, column 5:
+          InventoryLocation:1
+          ^
+  could not found expected ':'
+   in 'string', line 19, column 5:
+          ExtraPermission:
+          ^
+2013 25-12 at 01:16:11 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning a simple key
+   in 'string', line 23, column 5:
+          Price:500
+          ^
+  could not found expected ':'
+   in 'string', line 24, column 5:
+          Reward:
+          ^
+2013 25-12 at 01:16:27 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning a simple key
+   in 'string', line 23, column 5:
+          Price:500
+          ^
+  could not found expected ':'
+   in 'string', line 24, column 5:
+          Reward:
+          ^
+2013 25-12 at 01:17:35 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 30, column 5:\n       \
+  \ -name&95 Cobblestone\n        ^\ncould not found expected ':'\n in 'string', line\
+  \ 31, column 5:\n        Message: '&eYou bought 32 %itemn ... \n        ^\n"
+2013 25-12 at 01:17:42 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 30, column 5:\n       \
+  \ -name&95 Cobblestone\n        ^\ncould not found expected ':'\n in 'string', line\
+  \ 31, column 5:\n        Message: '&eYou bought 32 %itemn ... \n        ^\n"
+2013 25-12 at 01:21:15 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 16, column 5:\n       \
+  \ -name&95 Stone\n        ^\ncould not found expected ':'\n in 'string', line 17,\
+  \ column 5:\n        Message:  '&eYou bought 32 %item ... \n        ^\n"
+2013 25-12 at 01:23:14 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 16, column 5:\n       \
+  \ -name&95 Stone\n        ^\ncould not found expected ':'\n in 'string', line 17,\
+  \ column 5:\n        Message: '&eYou bought 32 %itemn ... \n        ^\n"
+2013 25-12 at 01:23:49 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: found duplicate anchor 95; first occurence
+   in 'string', line 16, column 12:
+          -name: &95 Stone
+                 ^
+  second occurence
+   in 'string', line 30, column 12:
+          -name: &95 Cobblestone
+                 ^
+2013 25-12 at 01:24:28 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 53, column 17:
+          - - type: 17: 1
+                      ^
+2013 25-12 at 01:25:28 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 57, column 14:
+          -type: 17: 1
+                   ^
+2013 25-12 at 01:26:17 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: found duplicate anchor 95; first occurence
+   in 'string', line 44, column 12:
+          -name: &95 Oak Wood
+                 ^
+  second occurence
+   in 'string', line 59, column 12:
+          -name: &95 Spruce Wood
+                 ^
+2013 25-12 at 01:26:48 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 69, column 17:
+          - - type: 17: 2
+                      ^
+2013 25-12 at 01:27:45 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 85, column 17:
+          - - type: 17: 3
+                      ^
+2013 25-12 at 01:28:14 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 89, column 14:
+          -type: 17: 3
+                   ^
+2013 25-12 at 01:28:32 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 107, column 20:
+          -'lore: &cPrice:  5000money'
+                         ^
+2013 25-12 at 01:29:36 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning an anchor
+   in 'string', line 107, column 13:
+          -'lore: &c5000money'
+                  ^
+  expected alphabetic or numeric character, but found '(39)
+   in 'string', line 107, column 24:
+          -'lore: &c5000money'
+                             ^
+2013 25-12 at 01:30:08 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning for the next token
+  found character % '%' that cannot start any token. (Do not use % for indentation)
+   in 'string', line 139, column 15:
+          - name: &9%itemname%
+                    ^
+2013 25-12 at 01:31:18 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: mapping values are not allowed here\n in 'string', line 2, column 6:\n\
+  \    signs: \n         ^\n"
+2013 25-12 at 01:31:47 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning for the next token
+  found character % '%' that cannot start any token. (Do not use % for indentation)
+   in 'string', line 139, column 15:
+          - name: &9%itemname%
+                    ^
+2013 25-12 at 01:32:44 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: mapping values are not allowed here
+   in 'string', line 140, column 20:
+          -'lore: &cPrice:  10000money'
+                         ^
+2013 25-12 at 01:33:06 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 9, column 5:\n        500\n\
+  \        ^\ncould not found expected ':'\n in 'string', line 10, column 5:\n   \
+  \     Reward: \n        ^\n"
+2013 25-12 at 01:33:47 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 99, column 5:\n       \
+  \ 5000\n        ^\ncould not found expected ':'\n in 'string', line 100, column\
+  \ 5:\n        Reward: \n        ^\n"
+2013 25-12 at 01:34:04 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 115, column 5:\n      \
+  \  10000\n        ^\ncould not found expected ':'\n in 'string', line 116, column\
+  \ 5:\n        Reward: \n        ^\n"
+2013 25-12 at 01:34:29 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning an anchor
+   in 'string', line 140, column 13:
+          -'lore: &c10000money'
+                  ^
+  expected alphabetic or numeric character, but found '(39)
+   in 'string', line 140, column 25:
+          -'lore: &c10000money'
+                              ^
+2013 25-12 at 01:35:15 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: found duplicate anchor c10000money; first occurence
+   in 'string', line 123, column 13:
+          - lore: &c10000money
+                  ^
+  second occurence
+   in 'string', line 140, column 13:
+          - lore: &c10000money
+                  ^
+2013 25-12 at 01:36:01 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning for the next token
+  found character % '%' that cannot start any token. (Do not use % for indentation)
+   in 'string', line 159, column 15:
+          - name: &5%itemname%
+                    ^
+2013 25-12 at 01:36:50 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 169, column 5:\n      \
+  \  2000\n        ^\ncould not found expected ':'\n in 'string', line 170, column\
+  \ 5:\n        Reward: \n        ^\n"
+2013 25-12 at 01:37:05 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning an anchor
+   in 'string', line 180, column 13:
+          - name: &4[*] &c%itemname% &4[*]
+                  ^
+  expected alphabetic or numeric character, but found [(91)
+   in 'string', line 180, column 15:
+          - name: &4[*] &c%itemname% &4[*]
+                    ^
+2013 25-12 at 01:37:27 AM (Wed): |
+  Invalid Configuration! File: /shops/Buyshop.yml Cause: while scanning an anchor
+   in 'string', line 180, column 13:
+          - name: &4[*] &cDiamond Sword &4[*]
+                  ^
+  expected alphabetic or numeric character, but found [(91)
+   in 'string', line 180, column 15:
+          - name: &4[*] &cDiamond Sword &4[*]
+                    ^
+2013 25-12 at 01:37:49 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 190, column 5:\n      \
+  \  400\n        ^\ncould not found expected ':'\n in 'string', line 191, column\
+  \ 5:\n        Reward: \n        ^\n"
+2013 25-12 at 01:38:04 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while scanning a simple key\n in 'string', line 190, column 5:\n      \
+  \  400\n        ^\ncould not found expected ':'\n in 'string', line 191, column\
+  \ 5:\n        Reward: \n        ^\n"
+2013 25-12 at 01:38:18 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while parsing a block mapping\n in 'string', line 6, column 5:\n      \
+  \  Stone: \n        ^\nexpected <block end>, but found BlockEntry\n in 'string',\
+  \ line 209, column 5:\n        - durability: 11\n        ^\n"
+2013 25-12 at 01:39:22 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 01:39:27 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 01:39:48 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 01:39:58 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 01:42:58 AM (Wed): "Invalid Configuration! File: /shops/Buyshop.yml\
+  \ Cause: while parsing a block mapping\n in 'string', line 6, column 5:\n      \
+  \  Stone: \n        ^\nexpected <block end>, but found BlockEntry\n in 'string',\
+  \ line 60, column 5:\n        - durability: 1\n        ^\n"
+2013 25-12 at 01:43:54 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 01:44:09 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 11:48:21 AM (Wed): Error when trying to create BuyItem Price! (1)
+2013 25-12 at 11:48:22 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 01:42:22 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 02:09:32 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 02:22:58 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 02:44:03 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 02:45:03 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 02:45:44 PM (Wed): Error when trying to create BuyItem Reward! (1)
+2013 25-12 at 02:45:45 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 03:08:09 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 03:13:47 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 03:16:30 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 03:18:30 PM (Wed): Error when trying to create BuyItem -type! (1)
+2013 25-12 at 03:18:31 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 07:18:17 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 08:03:49 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 08:04:24 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 11:45:45 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 25-12 at 11:59:57 PM (Wed): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 01:21:01 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 01:26:45 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 01:29:49 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 01:47:05 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 01:54:29 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 01:58:44 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:08:54 PM (Thu): Error when trying to create BuyItem -name! (1)
+2013 26-12 at 02:08:55 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:10:21 PM (Thu): Error when trying to create BuyItem InventoryLocation! (1)
+2013 26-12 at 02:10:22 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:15:36 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:18:09 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:20:03 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:36:51 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:40:53 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:43:59 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:47:47 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:50:34 PM (Thu): Error when trying to create BuyItem PriceType! (1)
+2013 26-12 at 02:50:35 PM (Thu): Error when trying to create BuyItem Price! (1)
+2013 26-12 at 02:50:36 PM (Thu): Error when trying to create BuyItem -amount! (1)
+2013 26-12 at 02:50:39 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 02:59:23 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 03:00:35 PM (Thu): Error when trying to create BuyItem ExtraPermission! (1)
+2013 26-12 at 03:00:36 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 03:04:45 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 03:08:52 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 03:10:54 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 10:37:34 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 10:47:26 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 10:58:54 PM (Thu): Error when trying to create BuyItem Message! (1)
+2013 26-12 at 10:58:55 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 11:08:59 PM (Thu): Error when trying to create BuyItem Price! (1)
+2013 26-12 at 11:09:00 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 11:09:53 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 26-12 at 11:48:33 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 12:31:15 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 12:32:05 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 12:40:51 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 01:24:49 AM (Fri): Error when trying to create BuyItem -type! (1)
+2013 27-12 at 01:24:50 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 02:05:49 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 11:08:57 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 11:24:26 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 11:50:42 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 07:49:56 PM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 08:13:33 PM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 09:18:30 PM (Fri): Error when trying to create BuyItem RewardType! (1)
+2013 27-12 at 09:18:31 PM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 27-12 at 11:53:46 PM (Fri): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:03:31 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:08:26 AM (Sat): Error when trying to create BuyItem RewardType! (1)
+2013 28-12 at 12:08:27 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:11:28 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:32:56 AM (Sat): Error when trying to create BuyItem Price! (1)
+2013 28-12 at 12:32:57 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:37:23 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:39:58 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:55:55 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 12:57:14 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:04:38 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:05:43 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:07:08 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:07:52 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:08:53 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:09:07 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:09:48 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:17:47 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:21:20 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:21:37 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:21:48 AM (Sat): Error when trying to create BuyItem MenuItem! (1)
+2013 28-12 at 01:21:49 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:22:54 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:23:37 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:24:26 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:24:58 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:25:47 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:26:28 AM (Sat): Error when trying to create BuyItem RewardType! (1)
+2013 28-12 at 01:26:29 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:27:28 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:43:49 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:46:31 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:53:10 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 01:55:24 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 02:01:32 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 02:04:30 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 02:07:46 AM (Sat): Error when trying to create BuyItem -type! (1)
+2013 28-12 at 02:07:47 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 28-12 at 02:09:08 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 10:36:11 AM (Sun): Error when trying to create BuyItem RewardType! (1)
+2013 29-12 at 10:36:12 AM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 11:25:01 AM (Sun): Error when trying to create BuyItem Price! (1)
+2013 29-12 at 11:25:02 AM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 11:32:02 AM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 11:37:39 AM (Sun): Error when trying to create BuyItem RewardType! (1)
+2013 29-12 at 11:37:40 AM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 11:42:20 AM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 11:47:31 AM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 12:52:24 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 12:55:13 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 01:02:09 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 01:03:56 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 01:05:49 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 01:22:30 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 01:46:24 PM (Sun): Error when trying to create BuyItem Price! (1)
+2013 29-12 at 01:46:25 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 29-12 at 11:29:03 PM (Sun): Error when trying to create BuyItem Reward! (1)
+2013 29-12 at 11:29:04 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 01:46:46 AM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 01:50:05 AM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 01:51:57 AM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 01:54:45 AM (Mon): Error when trying to create BuyItem Price! (1)
+2013 30-12 at 01:54:46 AM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 01:57:23 AM (Mon): Error when trying to create BuyItem Reward! (1)
+2013 30-12 at 01:57:24 AM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 07:47:50 PM (Mon): Error when trying to create BuyItem Price! (1)
+2013 30-12 at 07:47:51 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 11:13:09 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 30-12 at 11:56:29 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 12:13:02 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 12:17:33 AM (Tue): Error when trying to create BuyItem Price! (1)
+2013 31-12 at 12:17:34 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:14:21 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:23:26 AM (Tue): Error when trying to create BuyItem -type! (1)
+2013 31-12 at 01:23:27 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:27:38 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:29:57 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:31:16 AM (Tue): Error when trying to create BuyItem Reward! (1)
+2013 31-12 at 01:31:17 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:34:50 AM (Tue): Error when trying to create BuyItem RewardType! (1)
+2013 31-12 at 01:34:51 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:46:20 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 01:57:08 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 02:05:55 AM (Tue): Error when trying to create BuyItem -amount! (1)
+2013 31-12 at 02:05:56 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2013 31-12 at 07:08:01 PM (Tue): Error when trying to create BuyItem -durability! (1)
+2014 01-01 at 01:15:17 AM (Wed): Error when trying to create BuyItem MenuItem! (1)
+2014 01-01 at 01:15:18 AM (Wed): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 07:59:38 PM (Thu): Error when trying to create BuyItem ExtraPermission! (1)
+2014 02-01 at 07:59:39 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 08:01:28 PM (Thu): Error when trying to create BuyItem RewardType! (1)
+2014 02-01 at 08:01:29 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:25:51 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:26:45 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:27:07 PM (Thu): Was not able to create BuyItem Seed! LAPIS_BLOCK (Item) is no valid Reward Item List! There has to be a list of ItemData ( dev.bukkit.org/bukkit-plugins/bossshop/pages/setup-guide/ )
+2014 02-01 at 11:28:42 PM (Thu): Error when trying to create BuyItem -amount! (1)
+2014 02-01 at 11:28:43 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:28:59 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:30:10 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:31:14 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:31:40 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:39:11 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 02-01 at 11:40:27 PM (Thu): Error when trying to create BuyItem Message! (1)
+2014 02-01 at 11:40:28 PM (Thu): Error when trying to create BuyItem -durability! (1)
+2014 03-01 at 12:23:53 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2014 03-01 at 12:29:12 AM (Fri): Error when trying to create BuyItem PriceType! (1)
+2014 03-01 at 12:29:13 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2014 03-01 at 12:35:25 AM (Fri): Error when trying to create BuyItem RewardType! (1)
+2014 03-01 at 12:35:26 AM (Fri): Error when trying to create BuyItem -durability! (1)
+2014 03-01 at 08:22:39 PM (Fri): Error when trying to create BuyItem RewardType! (1)
+2014 03-01 at 08:22:40 PM (Fri): Error when trying to create BuyItem -durability! (1)
+2014 03-01 at 09:17:49 PM (Fri): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:22:25 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:26:09 AM (Sat): Error when trying to create BuyItem -name! (1)
+2014 04-01 at 01:26:10 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 05:53:02 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 05:58:13 AM (Sat): Error when trying to create BuyItem InventoryLocation! (1)
+2014 04-01 at 05:58:14 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 06:04:08 AM (Sat): Error when trying to create BuyItem MenuItem! (1)
+2014 04-01 at 06:04:09 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 10:24:56 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 11:09:53 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 11:13:52 AM (Sat): Error when trying to create BuyItem -name! (1)
+2014 04-01 at 11:13:53 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 11:25:55 AM (Sat): Error when trying to create BuyItem InventoryLocation! (1)
+2014 04-01 at 11:25:56 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 11:30:17 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 11:35:52 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 11:41:14 AM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:18:23 PM (Sat): Error when trying to create BuyItem RewardType! (1)
+2014 04-01 at 01:18:24 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:21:47 PM (Sat): Error when trying to create BuyItem MenuItem! (1)
+2014 04-01 at 01:21:48 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:24:20 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:45:16 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:54:17 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 01:57:41 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 02:08:37 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 03:19:51 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 04:43:44 PM (Sat): Error when trying to create BuyItem Price! (1)
+2014 04-01 at 04:43:45 PM (Sat): Error when trying to create BuyItem InventoryLocation! (1)
+2014 04-01 at 04:43:46 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 05:02:37 PM (Sat): Error when trying to create BuyItem RewardType! (1)
+2014 04-01 at 05:02:41 PM (Sat): Error when trying to create BuyItem InventoryLocation! (1)
+2014 04-01 at 05:02:42 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 05:21:22 PM (Sat): Error when trying to create BuyItem ExtraPermission! (1)
+2014 04-01 at 05:21:23 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 04-01 at 07:49:38 PM (Sat): Error when trying to create BuyItem -durability! (1)
+2014 05-01 at 02:35:08 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2014 05-01 at 04:01:25 PM (Sun): Error when trying to create BuyItem InventoryLocation! (1)
+2014 05-01 at 04:01:26 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2014 05-01 at 04:31:52 PM (Sun): Error when trying to create BuyItem -name! (1)
+2014 05-01 at 04:31:53 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2014 05-01 at 05:00:09 PM (Sun): Error when trying to create BuyItem Message! (1)
+2014 05-01 at 05:00:10 PM (Sun): Error when trying to create BuyItem -durability! (1)
+2014 06-01 at 05:31:45 AM (Mon): Error when trying to create BuyItem InventoryLocation! (1)
+2014 06-01 at 05:31:46 AM (Mon): Error when trying to create BuyItem -durability! (1)
+2014 06-01 at 04:32:25 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2014 06-01 at 04:55:14 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2014 06-01 at 06:54:29 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2014 06-01 at 06:58:51 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2014 06-01 at 10:26:48 PM (Mon): Error when trying to create BuyItem -durability! (1)
+2014 07-01 at 05:31:23 AM (Tue): Error when trying to create BuyItem -durability! (1)
+2014 07-01 at 07:23:38 PM (Tue): Error when trying to create BuyItem ExtraPermission! (1)
+2014 07-01 at 07:23:39 PM (Tue): Error when trying to create BuyItem -durability! (1)
+2014 07-01 at 08:45:42 PM (Tue): Error when trying to create BuyItem Price! (1)
+2014 07-01 at 08:45:43 PM (Tue): Error when trying to create BuyItem -durability! (1)

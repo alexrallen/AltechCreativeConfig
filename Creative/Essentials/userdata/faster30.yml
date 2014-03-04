@@ -1,0 +1,25 @@
+socialspy: false
+timestamps:
+  login: 1391977640222
+  logout: 1391977764126
+  lastteleport: 1391977707408
+ipAddress: 50.155.57.155
+lastlocation:
+  world: world
+  x: 617.1041215816504
+  y: 68.0
+  z: 1160.9359214113526
+  yaw: -25.31958
+  pitch: 37.500004
+logoutlocation:
+  world: world
+  x: 192.42106796060554
+  y: 114.0
+  z: 250.41147361914207
+  yaw: -126.90162
+  pitch: 61.79997
+ban:
+  reason: |-
+    §4Banned:
+    §rMob spam
+  timeout: 0

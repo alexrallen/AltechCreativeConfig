@@ -1,0 +1,31 @@
+worlds:
+  plotsworld:
+    PlotFloorBlock: '2'
+    RoadAltBlock: '5:2'
+    FillBlock: '3'
+    PathWidth: 7
+    ProtectedWallBlock: '44:4'
+    PlotSize: 32
+    XTranslation: 0
+    BottomBlock: '7'
+    GroundHeight: 64
+    RoadMainBlock: '5'
+    ZTranslation: 0
+    WallBlock: '44'
+    ForSaleWallBlock: '44:1'
+    AuctionWallBlock: '44:1'
+  PlotMe:
+    FillBlock: '3'
+    RoadAltBlock: '5:2'
+    AuctionWallBlock: '44:1'
+    ForSaleWallBlock: '44:1'
+    WallBlock: '44'
+    PathWidth: 7
+    PlotSize: 32
+    ProtectedWallBlock: '44:4'
+    BottomBlock: '7'
+    RoadMainBlock: '5'
+    GroundHeight: 64
+    PlotFloorBlock: '2'
+    XTranslation: 0
+    ZTranslation: 0

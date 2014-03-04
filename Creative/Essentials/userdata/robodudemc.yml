@@ -1,0 +1,24 @@
+socialspy: false
+timestamps:
+  login: 1393896973290
+  lastteleport: 1393892353723
+  logout: 1393896976290
+ipAddress: 67.237.89.65
+lastlocation:
+  world: PlotMeLarge
+  x: 0.24597569649453052
+  y: 65.0
+  z: 0.13774107696767168
+  yaw: 201.89996
+  pitch: -7.6500187
+afk: false
+logoutlocation:
+  world: Spawn
+  x: 0.4369668257534758
+  y: 65.0
+  z: 0.4076229143252059
+  yaw: 0.2999268
+  pitch: -6.749996
+powertools:
+  '171':
+  - left chunk

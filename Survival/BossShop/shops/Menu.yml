@@ -1,0 +1,115 @@
+ShopName: Menu
+signs:
+  text: '[Menu]'
+  NeedPermissionToCreateSign: true
+shop:
+  MenuItems:
+    RewardType: shop
+    PriceType: free
+    Reward: BuyShop
+    MenuItem:
+    - type:QUARTZ_BLOCK
+    - amount:1
+    - name:&9&lBuy Shop &6[+]
+    - lore:&8Buy Stuff
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''
+  MenuSellShop:
+    RewardType: shop
+    PriceType: free
+    Reward: SellShop
+    MenuItem:
+    - type:OBSIDIAN
+    - amount:1
+    - name:&b&lSell Shop &6[+]
+    - lore:&8Sell Stuff
+    Message: ''
+    InventoryLocation: 2
+    ExtraPermission: ''
+  MenuPotions:
+    RewardType: shop
+    PriceType: free
+    Reward: Potions
+    MenuItem:
+    - type:POTION
+    - amount:1
+    - name:&5&lPotions &6[**]
+    - lore:&8Potions for the Thirsty
+    - potioneffect:SPEED#1#1
+    Message: ''
+    InventoryLocation: 3
+    ExtraPermission: ''
+  MenuSpells:
+    RewardType: shop
+    PriceType: free
+    Reward: Spells
+    MenuItem:
+    - type:WRITTEN_BOOK
+    - amount:1
+    - name:&4&lSpells &6[*]
+    - lore:&8Magical Enchanting Tomes
+    Message: ''
+    InventoryLocation: 4
+    ExtraPermission: ''
+  MenuWarps:
+    RewardType: shop
+    PriceType: free
+    Reward: Warps
+    MenuItem:
+    - type:GOLD_BARDING
+    - amount:1
+    - name:&a&lWarps &6[x]
+    - lore:&8Teleportation Anywhere
+    Message: ''
+    InventoryLocation: 5
+    ExtraPermission: ''
+  MenuBungeeCordServers:
+    RewardType: shop
+    PriceType: free
+    Reward: BungeeCordServers
+    MenuItem:
+    - type:COMPASS
+    - amount:1
+    - name:&c&lServers &6[x]
+    - lore:&8Change Servers
+    Message: ''
+    InventoryLocation: 9
+    ExtraPermission: ''
+  SkillsMenu:
+    RewardType: shop
+    PriceType: free
+    Reward: skills
+    MenuItem:
+    - type:EXP_BOTTLE
+    - amount:1
+    - name:&c&lSkills &6[x]
+    - lore:&8Level Up!
+    Message: ''
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Help:
+    RewardType: playercommand
+    PriceType: free
+    Reward: 
+    - warp help
+    MenuItem:
+    - type:EYE_OF_ENDER
+    - amount:1
+    - name:&c&lHelp &6[x]
+    - lore:&8Maday!
+    Message: ''
+    InventoryLocation: 7
+    ExtraPermission: ''
+
+  Website:
+    RewardType: shop
+    PriceType: free
+    Reward: resources
+    MenuItem:
+    - type:BEACON
+    - name:&4Resources
+    - 'lore:&cExtra Stuff!'
+    Message: ''
+    InventoryLocation: 8
+    ExtraPermission: ''

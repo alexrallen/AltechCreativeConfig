@@ -1,0 +1,26 @@
+autosave:
+  Calvinator11:
+    pet:
+      type: HUMAN
+      name: Herobrine
+  KYRCREEPY:
+    pet:
+      type: HUMAN
+      name: Human Pet
+  GeitenkaasSwekk:
+    pet:
+      type: OCELOT
+      name: Black Panter
+      data:
+        black: true
+  SyberMC:
+    pet:
+      type: SQUID
+      name: Budder
+  alison848849547:
+    pet:
+      type: PIG
+      name: Pig Pet
+      data:
+        baby: true
+        saddle: true

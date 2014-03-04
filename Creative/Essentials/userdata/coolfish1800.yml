@@ -1,0 +1,30 @@
+socialspy: false
+timestamps:
+  login: 1393900736572
+  logout: 1393900796718
+  lastteleport: 1393892558022
+  kits:
+    tools: 1391465557391
+    firework: 1391465537739
+    color: 1391465611988
+    dtools: 1391465562751
+    notch: 1391465593519
+  jail: 0
+ipAddress: 184.3.132.171
+logoutlocation:
+  world: Spawn
+  x: 2.5955304540816693
+  y: 67.53839898414803
+  z: 31.23502701511658
+  yaw: -176.40007
+  pitch: 72.44999
+lastlocation:
+  world: Spawn
+  x: -2.073568799112783
+  y: -248.09264694252212
+  z: 10.497225675404293
+  yaw: -160.95003
+  pitch: 88.5
+afk: false
+nickname: Graham
+jailed: false

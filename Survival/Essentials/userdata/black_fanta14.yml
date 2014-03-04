@@ -1,0 +1,63 @@
+socialspy: false
+timestamps:
+  login: 1393894536505
+  lastteleport: 1393369050580
+  logout: 1393894553206
+  kits:
+    starter: 1392323244940
+    color: 1389659730494
+ipAddress: 76.2.47.23
+lastlocation:
+  world: wild
+  x: 2159.835677104612
+  y: 70.0
+  z: 2125.1438958857434
+  yaw: -123.5995
+  pitch: 6.750014
+logoutlocation:
+  world: world
+  x: -455.4739171344605
+  y: 66.0
+  z: -1472.184422821402
+  yaw: 359.3538
+  pitch: 0.74997437
+money: '3343.3536689887308684'
+homes:
+  wow:
+    world: world
+    x: 13.285884150136168
+    y: 94.0
+    z: -352.3358407868406
+    yaw: -327.9408
+    pitch: 33.150013
+  mine:
+    world: world
+    x: -39.531701062740424
+    y: 19.0
+    z: -832.4921365402794
+    yaw: -3.4919434
+    pitch: 15.750006
+  safe:
+    world: wild
+    x: 1561.300000011921
+    y: 43.0
+    z: 2184.300000011921
+    yaw: -16.200073
+    pitch: 26.100006
+  island:
+    world: wild
+    x: -4247.173492507725
+    y: 66.0
+    z: 3748.6129898954273
+    yaw: 292.3484
+    pitch: 21.149986
+  new:
+    world: wild
+    x: 2160.8910477757036
+    y: 70.0
+    z: 2126.7600087007213
+    yaw: -123.1495
+    pitch: 6.750014
+afk: false
+ban:
+  timeout: 0

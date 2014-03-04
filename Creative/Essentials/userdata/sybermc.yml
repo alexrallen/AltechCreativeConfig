@@ -1,0 +1,28 @@
+socialspy: false
+timestamps:
+  login: 1393899170884
+  logout: 1393899228897
+  lastteleport: 1392328021904
+ipAddress: 70.193.21.28
+afk: false
+logoutlocation:
+  world: Spawn
+  x: -4.871153616458768
+  y: 74.60619592491467
+  z: 5.067607603840971
+  yaw: -164.55066
+  pitch: 46.649994
+lastlocation:
+  world: world
+  x: 197.0621190019639
+  y: 115.991776600064
+  z: 252.14480621644705
+  yaw: -0.6015379
+  pitch: 1.6499683
+nickname: Syber
+powertools:
+  '369':
+  - jump
+  '384':
+  - jump
+godmode: false

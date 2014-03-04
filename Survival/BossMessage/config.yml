@@ -1,0 +1,39 @@
+BossMessage:
+  Enabled: true
+  Random: false
+  Interval: 500
+  Show: 150
+  ColorCodes: '''0123456789abcdef'''
+  NoPermission: '&cNo Permission!'
+  Whitelist: true
+  Messages:
+  - - '&eWelcome to Altech Survival'
+    - '100'
+  - - '&eThanks for visiting, %player%'
+    - '100'
+  - - '&eUse the /menu command to see the shop'
+    - '100'
+  - - '&eDo /f ? to get help with factions'
+    - '100'
+  - - '&eVisit www.altech.tk for the lastest news'
+    - '100'
+  - - '&eUse /warp help to learn basic server commands'
+    - '100'
+  - - '&eDo /tpa to send a teleport request to a player'
+    - '100'
+  - - '&eDeath for you, %player% is certain...'
+    - '100'
+  - - '&eUse the /servers command to see our available servers'
+    - '100'
+  - - '&eHey %player% donate at altechmc.buycraft.net'
+    - '100'
+  - - '&eQuestions? Visit the forums www.altech.tk/forums'
+    - '100'
+  IgnorePlayers:
+  - testPlayer
+  - examplePlayer
+  - your name
+  WhitelistedWorlds:
+  - world
+  - world_nether
+  - wild

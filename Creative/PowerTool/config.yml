@@ -1,0 +1,75 @@
+config-version: 5
+
+# This string is replaced with the username of the currently targeted player.
+player-token: '%p'
+
+# This string is replaced with the X-coordinate of the currently targeted
+# block.
+x-token: '%x'
+
+# This string is replaced with the Y-coordinate of the currently targeted
+# block.
+y-token: '%y'
+
+# This string is replaced with the Y-coordinate of the nearest air block
+# above the currently targeted block.
+y-air-token: '%Y'
+
+# This string is replaced with the Z-coordinate of the currently targeted
+# block.
+z-token: '%z'
+
+# Per-group options. Groups are determined by permissions. If a player has
+# the given permission, they are considered part of that group and will have
+# the corresponding power tool options. The general form is:
+# 
+#   - name: some.permission
+#     limit: 5
+# 
+# A limit of -1 means unlimited.
+# 
+# The name "default" is special and is used if the player has none of the given
+# permissions. Only the first permission matched is used.
+options:
+- name: default
+  limit: -1
+- name: group.guest
+  limit: 5
+
+# Global power tools, usable by anyone with the powertool.use permission.
+# The general form is:
+# 
+#   item_id_or_name:
+#     left-click: command-to-execute-when-left-clicked
+#     right-click: command-to-execute-when-right-clicked
+#     run-as-console: true/false
+#     permissions:
+#     - perm1
+#     - perm2
+# 
+# "left-click" or "right-click" may be omitted.
+# "run-as-console" may be omitted, in which case it defaults to false.
+# "permissions" may be omitted, in which case no temporary permissions will
+# be granted upon use.
+powertools:
+  sulphur:
+    left-click: version
+    right-click: plugins
+
+# If true, when the player selects an item on their hot bar, they will
+# be reminded if the item is bound to any commands. Set to false to
+# suppress this message.
+verbose: true
+
+# If true, then commands entered from the command line (i.e. for "pt left"
+# and "pt right") should be entered with the first slash omitted. This only
+# affects "pt left"/"pt right" and not the global power tools or player-saved
+# power tools.
+omit-first-slash: true
+
+# If true, then items are further differentiated by their custom name, if
+# given one.
+use-display-names: false
+
+# Enable debug logging.
+debug: false

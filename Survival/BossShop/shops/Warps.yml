@@ -1,0 +1,142 @@
+ShopName: Warps
+signs:
+  text: '[Warps]'
+  NeedPermissionToCreateSign: true
+shop:
+  Spawn:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp spawn
+    MenuItem:
+    - type:COMPASS
+    - amount:1
+    - name:&aSpawn
+    - lore:&8Warp to the Spawn
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Wild1:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp desert
+    MenuItem:
+    - type:SAND
+    - amount:1
+    - name:&aDesert
+    - lore:&8Warp
+    - amount:1
+    - durability:0
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Wild2:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp megataiaga
+    MenuItem:
+    - type:SAPLING
+    - amount:1
+    - name:&aMega Taiga
+    - lore:&8Warp
+    - amount:1
+    - durability:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Wild3:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp birchforest
+    MenuItem:
+    - type:SAPLING
+    - amount:1
+    - name:&aBirch Forest
+    - lore:&8Warp
+    - amount:1
+    - durability:2
+    InventoryLocation: 4
+    ExtraPermission: ''
+  Wild4:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp ocean
+    MenuItem:
+    - type:WATER_BUCKET
+    - amount:1
+    - name:&aOcean
+    - lore:&8Warp
+    - amount:1
+    - durability:3
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Wild5:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp snow
+    MenuItem:
+    - type:SNOW_BLOCK
+    - amount:1
+    - name:&aSnow
+    - lore:&8Warp
+    - amount:1
+    - durability:4
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Wild6:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp darkforest
+    MenuItem:
+    - type:SAPLING
+    - amount:1
+    - name:&aDark Forest
+    - lore:&8Warp
+    - amount:1
+    - durability:5
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Wild7:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp swamp
+    MenuItem:
+    - type:LONG_GRASS
+    - amount:1
+    - name:&aSwamp
+    - lore:&8Warp
+    - amount:1
+    - durability:2
+    InventoryLocation: 8
+    ExtraPermission: ''
+
+  Shop:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - warp taiga
+    MenuItem:
+    - type:SAPLING
+    - amount:1
+    - name:&aTaiga
+    - lore:&8Warp
+    - amount:1
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving the ItemShop...'
+    InventoryLocation: 27
+    ExtraPermission: ''

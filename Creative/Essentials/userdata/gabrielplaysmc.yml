@@ -1,0 +1,19 @@
+socialspy: false
+timestamps:
+  login: 1389853394064
+  logout: 1389853397248
+ipAddress: 112.204.217.238
+lastlocation:
+  world: world
+  x: 197.5
+  y: 115.0
+  z: 235.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 195.49434381082304
+  y: 114.65
+  z: 240.34896715730426
+  yaw: 2.098462
+  pitch: 1.9499683

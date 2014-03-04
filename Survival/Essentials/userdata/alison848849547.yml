@@ -1,0 +1,24 @@
+socialspy: false
+timestamps:
+  login: 1393334395986
+  lastteleport: 1393267826460
+  logout: 1393337972063
+  kits:
+    color: 1392490709408
+ipAddress: 76.2.48.136
+lastlocation:
+  world: wild
+  x: -2721.2805054643613
+  y: 80.0
+  z: 402.2312498125031
+  yaw: 9.449359
+  pitch: 48.750072
+money: '2369.27410143113418896'
+logoutlocation:
+  world: wild
+  x: -2721.6532370517407
+  y: 76.0
+  z: 403.2640847053166
+  yaw: 103.34935
+  pitch: 3.9000626
+afk: false

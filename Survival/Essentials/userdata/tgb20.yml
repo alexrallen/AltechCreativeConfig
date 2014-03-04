@@ -1,0 +1,28 @@
+socialspy: false
+timestamps:
+  login: 1392860391952
+  lastteleport: 1391386587351
+  logout: 1392860444860
+  kits:
+    starter: 1389917988790
+ipAddress: 96.10.4.99
+lastlocation:
+  world: world
+  x: -456.5586520355376
+  y: 66.0
+  z: -1472.948560143204
+  yaw: 30.85373
+  pitch: 16.799974
+logoutlocation:
+  world: world
+  x: -477.15394547542184
+  y: 65.0
+  z: -1462.9168464010459
+  yaw: 13.6033325
+  pitch: 9.449959
+money: '100.0'
+ban:
+  reason: |-
+    §4Banned:
+    §rfuck off.
+  timeout: 0

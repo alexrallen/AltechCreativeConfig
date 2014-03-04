@@ -1,0 +1,111 @@
+portals:
+  plots:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: robodude
+    location: 192.0,114.0,228.0:198.0,118.0,228.0
+    world: world
+    destination: PlotMe
+  flat:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: robodude
+    location: 186.0,114.0,228.0:191.0,117.0,228.0
+    world: world
+    destination: FlatLand
+  natural:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: robodude
+    location: 199.0,114.0,228.0:204.0,117.0,228.0
+    world: world
+    destination: e:world:617.5811888330263,68.0,1156.3633238468128:2.2499886:-179.36963
+  w:PlotMeLarge:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: robodude
+    location: 192.0,123.0,228.0:198.0,129.0,228.0
+    world: world
+    destination: PlotMeLarge
+  Donators:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: robodude
+    location: 192.0,123.0,228.0:198.0,129.0,228.0
+    world: world
+    destination: PlotMeLarge
+  portal_plot:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RobodudeMC
+    location: -2.0,65.0,-12.0:3.0,68.0,-12.0
+    world: Spawn
+    destination: PlotMe
+  portal_fland:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RobodudeMC
+    location: -8.0,65.0,-12.0:-4.0,68.0,-12.0
+    world: Spawn
+    destination: FlatLand
+  portal_flat:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RobodudeMC
+    location: -8.0,65.0,-12.0:-4.0,68.0,-12.0
+    world: Spawn
+    destination: FlatLand
+  portal_nat:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RobodudeMC
+    location: 5.0,65.0,-12.0:9.0,68.0,-12.0
+    world: Spawn
+    destination: e:world:616.5,68.0,1156.5:9.5999775:269.86084
+  donator_port:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: RobodudeMC
+    location: 12.0,66.0,-2.0:12.0,70.0,2.0
+    world: Spawn
+    destination: PlotMeLarge

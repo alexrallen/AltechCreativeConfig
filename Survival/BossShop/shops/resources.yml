@@ -1,0 +1,31 @@
+ShopName: Resources
+signs:
+  text: '[Resources]'
+  NeedPermissionToCreateSign: true
+shop:
+  Website:
+    RewardType: command
+    PriceType: free
+    Reward:
+    - tell %name% www.altech.tk
+    MenuItem:
+    - type:EMERALD
+    - amount:1
+    - name:&5Our Website
+    - 'lore:&8www.altech.tk'
+    Message: 
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Forums:
+    RewardType: command
+    PriceType: free
+    Reward:
+    - tell %name% www.altech.tk/forums
+    MenuItem:
+    - type:DIAMOND_ORE
+    - amount:1
+    - name:&5Our Forums
+    - 'lore:&8www.altech.tk/forums'
+    Message: 
+    InventoryLocation: 2
+    ExtraPermission: ''

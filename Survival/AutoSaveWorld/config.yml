@@ -1,0 +1,112 @@
+var:
+  debug: false
+  commandsonlyfromconsole: false
+save:
+  enabled: true
+  interval: 900
+  broadcast: true
+  onaswdisable: true
+  onlastplayerquit: true
+  donotsaveifempty: true
+backup:
+  enabled: true
+  interval: 43200
+  savebefore: true
+  broadcast: true
+  localfs:
+    enabled: true
+    worlds:
+    - '*'
+    MaxNumberOfWorldsBackups: 30
+    pluginsfolder: true
+    MaxNumberOfPluginsBackups: 30
+    excludefolders: []
+    destinationfolders:
+    - backups
+    zip: true
+  ftp:
+    enabled: false
+    hostname: 127.0.0.1
+    port: 21
+    login: user
+    password: password
+    path: /asw/
+    worlds:
+    - '*'
+    pluginsfolder: false
+    excludefolders: []
+    maxNumberOfBackups: 4
+    zip: false
+  script:
+    enabled: false
+    scriptpath: ''
+purge:
+  enabled: false
+  interval: 86400
+  awaytime: 2592000
+  broadcast: true
+  wg:
+    enabled: true
+    regenpurgedregion: false
+    noregenoverlapregion: true
+  lwc:
+    enabled: true
+    deletepurgedblocks: false
+  mvinv:
+    enabled: true
+  pm:
+    enabled: true
+    regenpurgedplot: false
+  residence:
+    enabled: true
+    regenpurgedresidence: false
+  economy:
+    enabled: true
+  permissions:
+    enabled: true
+  dat:
+    enabled: true
+crashrestart:
+  enabled: true
+  startdelay: 20
+  scriptpath: ''
+  timeout: 60
+  juststop: true
+autorestart:
+  enabled: true
+  broadcast: true
+  time:
+  - 05:30
+  countdown:
+    enabled: true
+    broadcastonsecond:
+    - 60
+    - 30
+    - 10
+    - 9
+    - 8
+    - 7
+    - 6
+    - 5
+    - 4
+    - 3
+    - 2
+    - 1
+  scriptpath: ''
+  juststop: true
+consolecommand:
+  timemode:
+    enabled: false
+    times:
+      00:00:
+      - say It's midnight!
+  intervalmode:
+    enabled: false
+    intervals:
+      '900':
+      - stoplag
+      - say Removing all ground items.
+worldregen:
+  savewg: true
+  savefactions: true
+  savegp: true

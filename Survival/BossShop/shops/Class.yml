@@ -1,0 +1,172 @@
+ShopName: Class
+signs:
+  text: '[Class]'
+  NeedPermissionToCreateSign: true
+shop:
+  Archer:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon BOW %name%
+    MenuItem:
+    - type:BOW
+    - amount:1
+    - name:&5Archer
+    - 'lore:&8Look at them fly!'
+    Message: 
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Pyro1:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon REDSTONE_TORCH_ON %name%
+    MenuItem:
+    - type:REDSTONE_TORCH_ON
+    - amount:1
+    - name:&5Pyro I
+    - 'lore:&8Small Fire'
+    Message: 
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Pyro2:
+    RewardType: command
+    PriceType: money
+    Price: 50
+    Reward:
+    - recruiter weapon TORCH %name%
+    MenuItem:
+    - type:TORCH
+    - amount:1
+    - name:&5Pyro II
+    - 'lore:&8Bonfire'
+    Message: 
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Pyro3:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon BLAZE_ROD %name%
+    MenuItem:
+    - type:BLAZE_ROD
+    - amount:1
+    - name:&5Pyro III
+    - 'lore:&8Atomic Blast'
+    Message: 
+    InventoryLocation: 4
+    ExtraPermission: ''
+  Bomb:
+    RewardType: command
+    PriceType: money
+    Price: 25
+    Reward:
+    - recruiter weapon EGG %name%
+    MenuItem:
+    - type:EGG
+    - amount:1
+    - name:&5Bombardier
+    - 'lore:&8Bombs away!'
+    Message: 
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Ice:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon SNOW_BALL %name%
+    MenuItem:
+    - type:SNOW_BALL
+    - amount:1
+    - name:&5Ice Mage
+    - 'lore:&8Frostbite'
+    Message: 
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Storm1:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon PAPER %name%
+    MenuItem:
+    - type:PAPER
+    - amount:1
+    - name:&5Storm Caller I
+    - 'lore:&8Rain'
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Storm2:
+    RewardType: command
+    PriceType: money
+    Price: 300
+    Reward:
+    - recruiter weapon BOOK %name%
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&5Storm Caller II
+    - 'lore:&8Thunder'
+    Message: 
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Storm3:
+    RewardType: command
+    PriceType: money
+    Price: 500
+    Reward:
+    - recruiter weapon BOOK_AND_QUILL %name%
+    MenuItem:
+    - type:BOOK_AND_QUILL
+    - amount:1
+    - name:&5Storm Caller III
+    - 'lore:&8Hurricane'
+    Message: 
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Witch:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon POTION %name%
+    MenuItem:
+    - type:POTION
+    - amount:1
+    - name:&5Witch Doctor
+    - 'lore:&8Boil and Bubble!'
+    Message: 
+    InventoryLocation: 10
+    ExtraPermission: ''
+  Warlock1:
+    RewardType: command
+    PriceType: money
+    Price: 100
+    Reward:
+    - recruiter weapon ENDER_PEARL %name%
+    MenuItem:
+    - type:ENDER_PEARL
+    - amount:1
+    - name:&5Warlock I
+    - 'lore:&8Spell'
+    Message: 
+    InventoryLocation: 11
+    ExtraPermission: ''
+  Warlock2:
+    RewardType: command
+    PriceType: money
+    Price: 25
+    Reward:
+    - recruiter weapon SKULL_ITEM %name%
+    MenuItem:
+    - type:SKULL_ITEM
+    - amount:1
+    - name:&5Warlock II
+    - 'lore:&8Hex'
+    Message: 
+    InventoryLocation: 12
+    ExtraPermission: ''

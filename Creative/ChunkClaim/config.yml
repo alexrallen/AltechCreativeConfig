@@ -1,0 +1,16 @@
+# ChunkClaim Configuration File. 
+# Visit http://dev.bukkit.org/server-mods/chunkclaim/pages/configuration/
+worlds:
+- world
+- FlatLand
+protectSwitches: true
+protectContainers: true
+mobsForCredits: false
+mobPrice: 30
+startCredits: 100
+creditsPerHour: 3
+maxCredits: 30
+minModBlocks: 10
+autoDeleteDays: 900
+nextToForce: false
+regenerateChunk: false

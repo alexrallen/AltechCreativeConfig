@@ -1,0 +1,19 @@
+socialspy: false
+timestamps:
+  login: 1388468933310
+  logout: 1388470271177
+ipAddress: 76.4.14.135
+lastlocation:
+  world: world
+  x: -608.0
+  y: 64.0
+  z: 164.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: SkyWarsArenaWorld
+  x: 4.169421458516087
+  y: -225.15467069075382
+  z: 42.93420081063006
+  yaw: 0.0
+  pitch: 0.0

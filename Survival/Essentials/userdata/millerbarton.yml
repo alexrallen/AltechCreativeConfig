@@ -1,0 +1,26 @@
+socialspy: false
+timestamps:
+  login: 1393098821279
+  logout: 1393098865751
+  lastteleport: 1393091811517
+ipAddress: 108.210.100.147
+logoutlocation:
+  world: world
+  x: -457.47181105833204
+  y: 66.0
+  z: -1472.9845464155537
+  yaw: -213.79616
+  pitch: 12.1499815
+lastlocation:
+  world: world
+  x: -494.1492669705171
+  y: 65.0
+  z: -1500.257797564605
+  yaw: -351.79663
+  pitch: -4.9500384
+ban:
+  reason: |-
+    §4Banned:
+    §rFine then don't be mad!
+  timeout: 0
+money: '630.3334451369914555'

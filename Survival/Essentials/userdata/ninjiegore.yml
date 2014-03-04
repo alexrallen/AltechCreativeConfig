@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1392389293104
+  logout: 1392390938511
+  lastteleport: 1392390669456
+  mute: 0
+  kits:
+    starter: 1392389890293
+ipAddress: 71.52.153.113
+logoutlocation:
+  world: world
+  x: 835.6999999880791
+  y: 55.0
+  z: -2382.864298274304
+  yaw: -8.861124
+  pitch: 45.74975
+lastlocation:
+  world: world
+  x: 796.4575764059012
+  y: 65.0
+  z: -2371.5574256718187
+  yaw: -50.625317
+  pitch: 32.491234
+money: '17805.4219721814098847'
+homes:
+  home:
+    world: world
+    x: 775.6914636137399
+    y: 72.0
+    z: -2382.776608514234
+    yaw: -185.53056
+    pitch: 37.46316
+muted: false
+afk: false
+ban:
+  reason: |-
+    §4Banned:
+    §rThe Ban Hammer has spoken!
+  timeout: 0
+nickname: Sensei

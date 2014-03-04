@@ -1,0 +1,225 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+last-created-npc-id: 45
+npc:
+  '13':
+    name: ShumanBob
+    traits:
+      owner: robodude
+      spawned: true
+      location:
+        world: world
+        x: '249.37590424957205'
+        y: '46.0'
+        z: '277.48923828780767'
+        yaw: '177.02984619140625'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,location,spawned,owner,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    name: Coolfish1800
+    traits:
+      owner: robodude
+      spawned: true
+      location:
+        world: Spawn
+        x: '-18.50348546957789'
+        y: '65.0'
+        z: '-1.5148697135161266'
+        yaw: '-60.76398468017578'
+        pitch: '-4.940950393676758'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,location,spawned,owner,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    name: SyberMC
+    traits:
+      owner: robodude
+      spawned: true
+      location:
+        world: Spawn
+        x: '-18.49302676528145'
+        y: '65.0'
+        z: '2.5086941433978347'
+        yaw: '251.17514038085938'
+        pitch: '-5.369502067565918'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,location,spawned,owner,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    name: robodude
+    traits:
+      owner: robodude
+      spawned: true
+      location:
+        world: Spawn
+        x: '-18.48902858417673'
+        y: '66.0'
+        z: '0.5222800540972234'
+        yaw: '-84.03649139404297'
+        pitch: '7.085254669189453'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: lookclose,location,spawned,owner,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    name: jeb_
+    traits:
+      type: Sheep
+      age:
+        age: 0
+        locked: true
+      location:
+        world: world
+        x: '-31.085994473503312'
+        y: '70.0'
+        z: '147.0465759630553'
+        yaw: '268.49822998046875'
+        pitch: '0.0'
+      owner: robodude
+      spawned: true
+    traitnames: location,age,spawned,owner,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '27':
+    name: Coolfish1800s
+    traits:
+      spawned: true
+      owner: Coolfish1800
+      location:
+        world: PlotMe
+        x: '12.674050510513698'
+        y: '-6638464.403884757'
+        z: '-57.4335894930462'
+        yaw: '256.33685302734375'
+        pitch: '2.549802541732788'
+    traitnames: location,spawned,owner,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

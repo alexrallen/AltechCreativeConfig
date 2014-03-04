@@ -1,0 +1,37 @@
+BossMessage:
+  Enabled: true
+  Random: false
+  Interval: 250
+  Show: 150
+  ColorCodes: '''0123456789abcdef'''
+  NoPermission: '&cNo Permission!'
+  Whitelist: false
+  Messages:
+  - - '&eHello welcome to Altech pm &a@robodude &eor &a@Coolfish1800'
+    - '100'
+  - - '&eThere are three worlds you can build in do /servers to get to them'
+    - '100'
+  - - '&eThanks for visiting, %player% other announcements and events will will broadcasted
+      here'
+    - '100'
+  - - '&eNo griefing, there is no reason to grief, we will ban all griefers on sight
+      with no chance of appeal'
+    - '100'
+  - - '&eLike factions, pvp and pve? Join our survival server now! &4/servers'
+    - '100'
+  - - '&eThanks for visiting! Tell your friends!'
+    - '100'
+  - - '&eCheck out our live 3D minimap at http://map.altechmc.com'
+    - '100'
+  - - '&eCome to our website! www.altechmc.com'
+    - '100'
+  - - '&eQuestions? Visit the forums www.altechmc.com/forums'
+    - '100'
+  IgnorePlayers:
+  - testPlayer
+  - examplePlayer
+  - your name
+  WhitelistedWorlds:
+  - world
+  - world_nether
+  - ExampleWorld

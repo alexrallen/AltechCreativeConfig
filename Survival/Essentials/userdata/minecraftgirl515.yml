@@ -1,0 +1,33 @@
+socialspy: false
+timestamps:
+  login: 1392157818816
+  lastteleport: 1392158392097
+  logout: 1392158437062
+  kits:
+    firework: 1391205722101
+    color: 1391187876506
+    starter: 1391179782525
+ipAddress: 70.194.10.88
+lastlocation:
+  world: wild
+  x: -2638.3531319901695
+  y: 180.0
+  z: 408.5869025909912
+  yaw: 0.72717285
+  pitch: 57.299988
+money: '486.5674691384535278'
+logoutlocation:
+  world: wild
+  x: -793.57736808729
+  y: 64.0
+  z: -868.988282440637
+  yaw: -223.49905
+  pitch: 17.25001
+homes:
+  home:
+    world: wild
+    x: -2644.1748156473705
+    y: 184.0
+    z: 406.29357180818096
+    yaw: -291.3229
+    pitch: 22.350004

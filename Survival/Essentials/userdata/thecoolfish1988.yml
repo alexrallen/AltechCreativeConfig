@@ -1,0 +1,20 @@
+socialspy: false
+timestamps:
+  login: 1391300109528
+  logout: 1391300527258
+ipAddress: 76.4.12.69
+lastlocation:
+  world: world
+  x: -429.53154752222616
+  y: 65.0
+  z: -1458.4902137043268
+  yaw: -75.046265
+  pitch: 7.049952
+nickname: Robodude
+logoutlocation:
+  world: world
+  x: 199.26335102096832
+  y: 79.0
+  z: -435.4121411006115
+  yaw: 254.65915
+  pitch: 29.850016

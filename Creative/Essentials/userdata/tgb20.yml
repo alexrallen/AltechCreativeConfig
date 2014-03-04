@@ -1,0 +1,25 @@
+socialspy: false
+timestamps:
+  login: 1391386685623
+  logout: 1391386699737
+  lastteleport: 1390248129426
+ipAddress: 96.10.4.99
+lastlocation:
+  world: world
+  x: 175.3809805873603
+  y: 102.21759619724975
+  z: 247.1397799542724
+  yaw: 18.748444
+  pitch: 35.700005
+logoutlocation:
+  world: world
+  x: 195.65085051964618
+  y: 114.5
+  z: 271.7153717897776
+  yaw: -1.9515382
+  pitch: 6.4499693
+ban:
+  reason: |-
+    §4Banned:
+    §rNo.
+  timeout: 0

@@ -1,0 +1,29 @@
+# AdminFun main configuration
+god-colour: red
+god-bold-text: false
+spamcast-colour: dark-aqua
+language: english
+max-explosion-size: 50
+fakeop-message: '&eYou are now op!'
+fakequit-message: '&e<player> left the game.'
+drop-party-amount: 15
+dropparty-items:
+- 276
+- 264
+- 267
+- 266
+- 310
+- 312
+- 311
+- 313
+- 322
+- 314
+- 317
+- 316
+- 315
+- 278
+- 266
+op-effects-enabled: true
+check-for-updates: true
+automatic-updates: true
+max-slap-damage: 15

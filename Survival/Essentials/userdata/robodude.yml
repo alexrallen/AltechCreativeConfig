@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1393253315223
+  lastteleport: 1393253343114
+  logout: 1393253430266
+  kits:
+    dtools: 1388163389691
+ipAddress: 152.26.52.55
+logoutlocation:
+  world: wild
+  x: 604.3000000119209
+  y: 23.0
+  z: 1127.699999988079
+  yaw: 83.464386
+  pitch: -13.799962
+lastlocation:
+  world: world
+  x: -448.11826379574575
+  y: 69.11855331782654
+  z: -1451.023251787445
+  yaw: 359.3538
+  pitch: 0.5999744
+afk: false
+money: '9788564.516056021009472'
+godmode: false
+nickname: §bRobodude
+ban:
+  reason: |-
+    §4Banned:
+    §rThe Ban Hammer has spoken!
+  timeout: 0
+homes:
+  ninjiegore:
+    world: world
+    x: -455.48544720712164
+    y: 66.0
+    z: -1474.4680734386798
+    yaw: 359.3538
+    pitch: 0.74997437

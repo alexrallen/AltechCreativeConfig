@@ -1,0 +1,12 @@
+socialspy: false
+logoutlocation:
+  world: world
+  x: 277.30000001192093
+  y: 93.0
+  z: -50.29778074117113
+  yaw: -265.97223
+  pitch: 40.892883
+timestamps:
+  login: 1389888460016
+  logout: 1389888669814
+ipAddress: 92.96.236.34

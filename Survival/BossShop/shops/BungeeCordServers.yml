@@ -1,0 +1,53 @@
+ShopName: BungeeCordServers
+signs:
+  text: '[BungeeCordServers]'
+  NeedPermissionToCreateSign: true
+shop:
+  Altech:
+    RewardType: bungeecordserver
+    PriceType: free
+    Reward: create
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aAltech Creative
+    - lore:&7Click to connect!
+    - durability:3
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Survival:
+    RewardType: bungeecordserver
+    PriceType: free
+    Reward: survive
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aAltech Survival!
+    - lore:&7Click to connect!
+    - durability:11
+    InventoryLocation: 2
+    ExtraPermission: ''
+  PixelCloud:
+    RewardType: bungeecordserver
+    PriceType: free
+    Reward: pixelcloud
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aPixelCloud
+    - lore:&7Ask tgb20 for access
+    - durability:14
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: Menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&9Back
+    - lore:&7Back to Menu
+    InventoryLocation: 9
+    ExtraPermission: ''
+

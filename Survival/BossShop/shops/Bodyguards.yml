@@ -1,0 +1,56 @@
+ShopName: Bodyguards
+signs:
+  text: '[Bodyguards]'
+  NeedPermissionToCreateSign: true
+shop:
+  Create:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - recruiter newguard
+    MenuItem:
+    - type:BLAZE_POWDER
+    - amount:1
+    - name:&5New Guards
+    - 'lore:&8Protect Me!'
+    Message: 
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Armor:
+    RewardType: shop
+    PriceType: free
+    Reward: Armory
+    MenuItem:
+    - type:IRON_CHESTPLATE
+    - amount:1
+    - name:&5Armory
+    - 'lore:&8Gear Up!'
+    Message: 
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Type:
+    RewardType: shop
+    PriceType: free
+    Reward: Class
+    MenuItem:
+    - type:STICK
+    - amount:1
+    - name:&5Class
+    - 'lore:&8I wanna be a knight!'
+    Message: 
+    InventoryLocation: 3
+    ExtraPermission: ''
+
+  Pets:
+    RewardType: playercommand
+    PriceType: free
+    Reward: 
+    - recruiter remove
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cDelete Bodyguard
+    - lore:&8I shall do this alone...
+    Message: '&6Leaving the ItemShop...'
+    InventoryLocation: 9
+    ExtraPermission: ''

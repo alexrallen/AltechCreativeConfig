@@ -1,0 +1,36 @@
+socialspy: false
+timestamps:
+  login: 1393296161822
+  logout: 1393296191806
+  lastteleport: 1393108598198
+  mute: 0
+  kits:
+    starter: 1391989624040
+    sybermc: 1391984809045
+ipAddress: 24.99.9.136
+lastlocation:
+  world: world
+  x: -455.46659997304016
+  y: 66.0
+  z: -1470.805582026764
+  yaw: 359.3538
+  pitch: 0.74997437
+money: '1430.5342390695773957'
+logoutlocation:
+  world: world
+  x: -455.48544720712164
+  y: 66.4
+  z: -1474.4680734386798
+  yaw: 359.3538
+  pitch: 0.74997437
+homes:
+  home:
+    world: wild
+    x: -2657.8598998251373
+    y: 110.0
+    z: 419.38819522183326
+    yaw: 40.450737
+    pitch: 10.115975
+nickname: TheAssassinGod
+muted: false
+afk: false

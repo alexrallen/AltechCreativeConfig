@@ -1,0 +1,231 @@
+ShopName: Skills
+signs:
+  text: '[Skills]'
+  NeedPermissionToCreateSign: true
+shop:
+  Mining:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mining
+    - mcscoreboard keep
+    MenuItem:
+    - type:IRON_PICKAXE
+    - amount:1
+    - name:&aMining
+    - lore:&8Mole Man!
+    - amount:1
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Smelting:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - smelting
+    - mcscoreboard keep
+    MenuItem:
+    - type:COAL
+    - amount:1
+    - name:&aSmelting
+    - lore:&8The Chef
+    - amount:1
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Unarmed:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - unarmed
+    - mcscoreboard keep
+    MenuItem:
+    - type:ROTTEN_FLESH
+    - amount:1
+    - name:&aUnarmed
+    - lore:&8Fists of DOOM!
+    - amount:1
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Acrobatics:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - acrobatics
+    - mcscoreboard keep
+    MenuItem:
+    - type:FEATHER
+    - amount:1
+    - name:&aAcrobatics
+    - lore:&8Float like a butterfly, Sting like a Creeper
+    - amount:1
+    InventoryLocation: 4
+    ExtraPermission: ''
+  Excavation:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - excavation
+    - mcscoreboard keep
+    MenuItem:
+    - type:STONE_SPADE
+    - amount:1
+    - name:&aExcavation
+    - lore:&8The Digger!
+    - amount:1
+    InventoryLocation: 5
+    ExtraPermission: ''
+  Herbalism:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - herbalism
+    - mcscoreboard keep
+    MenuItem:
+    - type:RED_ROSE
+    - amount:1
+    - name:&aHerbalism
+    - lore:&8Dont do drugs!
+    - amount:1
+    InventoryLocation: 6
+    ExtraPermission: ''
+  Swords:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - swords
+    - mcscoreboard keep
+    MenuItem:
+    - type:IRON_SWORD
+    - amount:1
+    - name:&aSwords
+    - lore:&8Big pokey things
+    - amount:1
+    InventoryLocation: 7
+    ExtraPermission: ''
+  Repair:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - repair
+    - mcscoreboard keep
+    MenuItem:
+    - type:ANVIL
+    - amount:1
+    - name:&aRepair
+    - lore:&8The Tool Whisperer
+    - amount:1
+    InventoryLocation: 8
+    ExtraPermission: ''
+  Woodcutting:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - woodcutting
+    - mcscoreboard keep
+    MenuItem:
+    - type:SAPLING
+    - amount:1
+    - name:&aWoodcutting
+    - lore:&8Lumberjack!
+    - amount:1
+    - durability:5
+    InventoryLocation: 9
+    ExtraPermission: ''
+  Taming:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - taming
+    - mcscoreboard keep
+    MenuItem:
+    - type:BONE
+    - amount:1
+    - name:&aTaming
+    - lore:&8Will Bender
+    - amount:1
+    InventoryLocation: 10
+    ExtraPermission: ''
+  Archery:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - archery
+    - mcscoreboard keep
+    MenuItem:
+    - type:BOW
+    - amount:1
+    - name:&aArchery
+    - lore:&8Meet the Sniper
+    - amount:1
+    InventoryLocation: 11
+    ExtraPermission: ''
+  Axes:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - axes
+    - mcscoreboard keep
+    MenuItem:
+    - type:STONE_AXE
+    - amount:1
+    - name:&aAxes
+    - lore:&8Gimli Wannabe
+    - amount:1
+    InventoryLocation: 12
+    ExtraPermission: ''
+  Fishing:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - fishing
+    - mcscoreboard keep
+    MenuItem:
+    - type:RAW_FISH
+    - amount:1
+    - name:&aFishing
+    - lore:&8Nooo.. Worms!
+    - amount:1
+    InventoryLocation: 13
+    ExtraPermission: ''
+  Clear:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mcscoreboard clear
+    MenuItem:
+    - type:PAPER
+    - amount:1
+    - name:&aClear
+    - lore:&8Remove Stats
+    - amount:1
+    InventoryLocation: 15
+    ExtraPermission: ''
+  All:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - mcstats
+    - mcscoreboard keep
+    MenuItem:
+    - type:BOOK_AND_QUILL
+    - amount:1
+    - name:&aAll Stats
+    - lore:&8Seen It...
+    - amount:1
+    InventoryLocation: 14
+    ExtraPermission: ''
+
+
+
+
+  Back:
+    RewardType: shop
+    PriceType: free
+    Reward: menu
+    MenuItem:
+    - type:REDSTONE
+    - amount:1
+    - name:&cBack
+    - lore:&8Back to Menu
+    Message: '&6Leaving the ItemShop...'
+    InventoryLocation: 27
+    ExtraPermission: ''

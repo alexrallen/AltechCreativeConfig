@@ -1,0 +1,46 @@
+ShopName: Tardis
+signs:
+  text: 'TardisShop'
+  NeedPermissionToCreateSign: true
+shop:
+  Website:
+    RewardType: command
+    PriceType: free
+    Reward:
+    - tell %name% http://eccentricdevotion.github.io/TARDIS
+    MenuItem:
+    - type:EMERALD
+    - amount:1
+    - name:&5Learn How
+    - 'lore:&8The Vortex Awaits'
+    Message: 
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Ref:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - tt
+    MenuItem:
+    - type:DIAMOND_ORE
+    - amount:1
+    - name:&5Command Reference
+    - 'lore:&8/tt'
+    Message: 
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Seed:
+    RewardType: item
+    PriceType: money
+    Price: 10
+    Reward:
+    - - type:LAPIS_BLOCK
+      - amount:1
+    MenuItem:
+    - type:LAPIS_BLOCK
+    - amount:1
+    - name:&5Buy the Seed Block
+    - 'lore:&810'
+    Message: 
+    InventoryLocation: 3
+    ExtraPermission: ''

@@ -1,0 +1,23 @@
+socialspy: false
+timestamps:
+  login: 1389744797506
+  logout: 1389744905418
+  lastteleport: 1389730807402
+ipAddress: 76.4.14.37
+lastlocation:
+  world: world
+  x: -335.6956149994375
+  y: 97.0
+  z: 69.39999688434429
+  yaw: 263.6612
+  pitch: 55.80002
+logoutlocation:
+  world: world
+  x: -562.4464076063301
+  y: 66.0
+  z: 180.66099624547675
+  yaw: 131.21147
+  pitch: 12.599959
+afk: false
+nickname: robodude
+money: '300.0'

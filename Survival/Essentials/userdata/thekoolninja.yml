@@ -1,0 +1,21 @@
+socialspy: false
+timestamps:
+  login: 1389910079576
+  kits:
+    starter: 1389910118014
+  logout: 1389910121509
+ipAddress: 99.44.176.16
+lastlocation:
+  world: world
+  x: -608.0
+  y: 64.0
+  z: 164.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -578.7327292175551
+  y: 66.0
+  z: 164.83269293806993
+  yaw: -71.288574
+  pitch: 8.699986

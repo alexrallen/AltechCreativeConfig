@@ -1,0 +1,18 @@
+storage: YAML
+mysql:
+  host: localhost
+  port: 3306
+  database: minecraft
+  user: username
+  password: pass
+  import:
+    use: false
+    source: YAML
+vote:
+  enabled: false
+  amount: 100
+  online: false
+debug:
+  database: false
+vault: false
+version: '1.6'

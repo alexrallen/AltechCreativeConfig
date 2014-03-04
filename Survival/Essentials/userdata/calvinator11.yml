@@ -1,0 +1,36 @@
+socialspy: false
+timestamps:
+  login: 1390150557339
+  logout: 1390150790301
+  lastteleport: 1390150736294
+  kits:
+    sybermc: 1389743397380
+  mute: 0
+ipAddress: 41.142.135.207
+lastlocation:
+  world: wild
+  x: -2645.53591427977
+  y: 176.0
+  z: 406.41664088724764
+  yaw: 279.30115
+  pitch: 7.499982
+logoutlocation:
+  world: world
+  x: -549.9654768203266
+  y: 66.0
+  z: 172.33534268334955
+  yaw: 83.9613
+  pitch: 13.04997
+homes:
+  home:
+    world: wild
+    x: -2622.790860998323
+    y: 143.0
+    z: 402.35899058966294
+    yaw: -7.9487305
+    pitch: 12.5999775
+muted: false
+afk: false
+money: '50.0'
+ban:
+  timeout: 0

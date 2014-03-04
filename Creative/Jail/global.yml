@@ -1,0 +1,148 @@
+AllowUpdateNotifications: true
+SelectionTool: 268
+ExecutedCommandsOnJail: []
+ExecutedCommandsOnRelease: []
+DeleteInventoryOnJail: false
+AutomaticMute: false
+NearestJailCode: nearest
+StoreInventory: true
+SignText: <Player>[NEWLINE]<TimeS>[NEWLINE]for[NEWLINE]<Reason>
+CanPrisonerOpenHisChest: true
+LogJailingIntoConsole: false
+CountdownTimeWhenOffline: true
+SpoutChangeSkin: false
+SpoutSkinChangeURL: http://www.planetminecraft.com/files/resource_media/skin/1118/skin_41409_skin.png
+ManualJails: []
+ManualCells: []
+ReleaseBackToPreviousPosition: true
+IgnorePrisonersSleepingState: true
+TeleportPrisonerOnRelease: true
+DefaultJailTime: -1
+MaximumReasonLength: 15
+UseBukkitSchedulerTimer: true
+JailCheckPrisonersPerPage: 15
+EnableJailStick: false
+JailStickParameters: 280,5,10,,police;50,5,20,,admin
+Protections:
+  EnableBlockDestroyProtection: true
+  BlockDestroyPenalty: 15
+  EnableBlockPlaceProtection: true
+  BlockPlacePenalty: 10
+  BlockPlaceProtectionExceptions:
+  - '59'
+  BlockDestroyProtectionExceptions:
+  - '59'
+  EnablePlayerMoveProtection: true
+  PlayerMoveProtectionPenalty: 30
+  PlayerMoveProtectionAction: guards
+  PreventCommands:
+  - /spawn
+  - /kill
+  - /warp
+  - /unjail
+  - /gamemode
+  WhitelistedCommands:
+  - /me
+  CommandProtectionPenalty: 10
+  InteractionPenalty: 10
+  EnableExplosionProtection: true
+  EnablePVPProtection: true
+  EnableChangingPermissions: false
+  PrisonersPermissionsGroups:
+  - prisoners
+  RestorePermissionsToEscapedPrisoners: true
+  MaximumAFKTime: 5.0
+  EnableFoodControl: true
+  FoodControlMinimumFood: 10
+  FoodControlMaximumFood: 20
+  PlayerRecievesMessages: true
+  PreventInteractionBlocks:
+  - '69'
+  - '72'
+  - '70'
+  - '46'
+  - '64'
+  - '96'
+  - '77'
+  PreventInteractionItems:
+  - '326'
+  - '327'
+  - '259'
+JailPay:
+  PricePerMinute: 10
+  PriceForInfiniteJail: 9999
+  Currency: 0
+Guards:
+  GuardHealth: 20
+  GuardArmor: 75
+  GuardDamage: 2
+  NumberOfGuards: 10
+  GuardInvincibility: false
+  GuardAttackSpeedPercent: 100
+  RespawnGuards: false
+  GuardTeleportDistance: 10
+  GuardTypes:
+  - Zombie
+Database:
+  UseMySQL: false
+  MySQLConn: jdbc:mysql://localhost:3306/minecraft
+  MySQLUSername: root
+  MySQLPassword: password
+Messages:
+  MessageJail: You have been jailed!
+  MessageJailReason: 'You have been jailed! Reason: <Reason>'
+  MessageUnJail: You have been released! Please respect server rules.
+  PlayerNotJailed: That player is not jailed!
+  PlayerAlreadyJailed: That player is already jailed!
+  MessageYouNotJailed: You are not jailed!
+  BlockDestroyedNoPenalty: Do not destroy The Jail!
+  BlockDestroyedPenalty: Do not destroy The Jail! You have just earned additional 15 minutes in jail!
+  MessageEscapeNoPenalty: Do not try to escape out of Jail!
+  MessageEscapePenalty: Do not try to escape out of Jail! You have just earned additional 30 minutes in jail!!
+  MessageBlockPlacedNoPenalty: Do not place blocks inside Jail!
+  MessageBlockPlacedPenalty: Do not place blocks inside Jail! You have just earned additional 10 minutes in jail!
+  ForbiddenCommandNoPenalty: Do not try to escape with commands!
+  ForbiddenCommandPenalty: Do not try to escape with commands! You have just earned additional 10 minutes in jail!
+  ForbiddenTransfer: You have been transferred to another jail!
+  MessageMuted: Stop chatting and quietly wait for the end of your sentence!
+  PreventedInteractionNoPenalty: Don't do that in Jail!
+  PreventedInteractionPenalty: Don't do that in Jail!  You have just earned additional 10 minutes in jail!
+  MessageAFKKick: Do not be AFK in jail!
+  MessageJailPayAmountForever: To get out of this mess, you will have to pay <Amount>.
+  JailPayCannotPay: Sorry, money won't help you this time.
+  JailPayCannotPayHim: Sorry, money won't help him this time.
+  JailPayNotEnoughMoney: You don't have that much money!
+  JailPayNotEnoughMoneySelected: That won't be enough for your sentence!
+  JailPayCost: 1 minute of your sentence will cost you <MinutePrice>. That means that cost for releasing you out of the jail is <WholePrice>.
+  JailPayPaidReleased: You have just payed <Amount> and saved yourself from the jail!
+  JailPayPaidReleasedHim: You have just payed <Amount> and saved <Prisoner> from the jail!
+  JailPayLoweredTime: You have just payed <Amount> and lowered your sentence to <NewTime> minutes!
+  JailPayLoweredTimeHim: You have just payed <Amount> and lowered <Prisoner>'s sentence to <NewTime> minutes!
+  TimeMinutes: <Time> minutes
+  Forever: ever
+  JailStatus: You are jailed for <TimeS> by <Jailer>
+  JailStatusReason: You are jailed for <TimeS> by <Jailer> because of <Reason>
+  JailCheckLine: <Player> - Jailed for <TimeS> in <Jail>
+  MessageJailCheckLineWaitingOffline: <Player> - Waiting for his first logon in prison
+  JailStickEnabled: JailStick enabled!
+  JailStickDisabled: JailStick disabled!
+  NoJail: There is no jail available. Build one, before you can jail anyone!
+  NeverOnThisServer: Player <Player> was never on this server!
+  TooLongReason: Reason is too long!
+  PrisonerJailed: Prisoner <Player> jailed.
+  PrisonerOffline: Prisoner <Player> is offline. He will be moved to jail at next login.
+  Escape: <Player> has escaped from jail!
+Jail Vote:
+  Enabled: true
+  Time: 5
+  Reason: Jailed by players
+  Vote Time: 60
+Broadcast Jail Message: false
+Logger:
+  Enabled: true
+Debug: false
+Jail Swear:
+  Enabled: false
+  Time: 10
+  Banned Words:
+  - cunt

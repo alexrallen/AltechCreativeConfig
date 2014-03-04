@@ -1,0 +1,32 @@
+socialspy: false
+timestamps:
+  login: 1393804107775
+  logout: 1393804462732
+  lastteleport: 1392145153413
+  jail: 0
+ipAddress: 67.237.93.255
+logoutlocation:
+  world: PlotMeLarge
+  x: 49.18751567571488
+  y: 126.48919891445814
+  z: 38.08443472700491
+  yaw: 228.75012
+  pitch: 35.84996
+lastlocation:
+  world: FlatLand
+  x: 133.6590926703782
+  y: 4.0
+  z: -2148.50223826761
+  yaw: -343.19727
+  pitch: -7.649939
+nickname: §1ThatOneGuy
+afk: false
+jailed: false
+homes:
+  home:
+    world: world
+    x: 861.6806065392664
+    y: 64.0
+    z: 350.10087944815547
+    yaw: 277.94714
+    pitch: 3.6000264

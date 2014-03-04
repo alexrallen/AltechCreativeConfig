@@ -1,0 +1,57 @@
+ShopName: Armory
+signs:
+  text: '[Armory]'
+  NeedPermissionToCreateSign: true
+shop:
+  Leather:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - recruiter equip leather
+    MenuItem:
+    - type:LEATHER_CHESTPLATE
+    - amount:1
+    - name:&5Leather Armor
+    - 'lore:&8$25'
+    Message: 
+    InventoryLocation: 1
+    ExtraPermission: ''
+  Chain:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - recruiter equip chain
+    MenuItem:
+    - type:CHAINMAIL_CHESTPLATE
+    - amount:1
+    - name:&5Chainmail
+    - 'lore:&8$50'
+    Message: 
+    InventoryLocation: 2
+    ExtraPermission: ''
+  Iron:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - recruiter equip iron
+    MenuItem:
+    - type:IRON_CHESTPLATE
+    - amount:1
+    - name:&5Iron Armor
+    - 'lore:&8$75'
+    Message: 
+    InventoryLocation: 3
+    ExtraPermission: ''
+  Diamond:
+    RewardType: playercommand
+    PriceType: free
+    Reward:
+    - recruiter equip diamond
+    MenuItem:
+    - type:DIAMOND_CHESTPLATE
+    - amount:1
+    - name:&5Diamond Armor
+    - 'lore:&8$100'
+    Message: 
+    InventoryLocation: 4
+    ExtraPermission: ''

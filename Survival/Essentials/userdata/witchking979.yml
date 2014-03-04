@@ -1,0 +1,31 @@
+socialspy: false
+timestamps:
+  login: 1393955045497
+  lastteleport: 1393955104175
+  logout: 1393955475510
+ipAddress: 62.228.105.14
+lastlocation:
+  world: world
+  x: -449.2292586787415
+  y: 65.0
+  z: -1469.7165953288995
+  yaw: 188.35379
+  pitch: -1.2000256
+money: '302.9078144652977214'
+homes:
+  home:
+    world: wild
+    x: 608.0948310289795
+    y: 80.0
+    z: 1268.2837180019585
+    yaw: -78.44684
+    pitch: 4.5000753
+logoutlocation:
+  world: wild
+  x: 612.4988343123922
+  y: 80.0
+  z: 1267.051701597862
+  yaw: -206.84705
+  pitch: 20.850052
+afk: false
+nickname: §8Felix
