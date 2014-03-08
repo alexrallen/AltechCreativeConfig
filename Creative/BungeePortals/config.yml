@@ -2,4 +2,4 @@
 SaveTask:
   Enabled: false
   Interval: 600
-NoPortalPermissionMessage: '&cYou do not have permission to go to the server {destination}.'
+NoPortalPermissionMessage: '&cGet out of here punk. This is invite only. {destination}.'
